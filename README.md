@@ -10,3 +10,6 @@ http://www.muhammad-irfan.me/2015/12/27/laravel-5-how-to-setup-queue-with-redis/
 
 #nginx+varnish服务器
 http://www.tuicool.com/articles/j6jMFrf
+
+#Linux比较好的一个文章站
+https://linuxconfig.org

@@ -21,3 +21,6 @@ http://www.codeday.top/2017/01/02/11952.html
 https://yq.aliyun.com/ziliao/23919
 https://blog.tanteng.me/2016/07/laravel-5-queue/
 http://www.cnblogs.com/zengxiangzhan/archive/2012/12/07/2807141.html
+
+#优化linux
+https://seravo.fi/2013/optimizing-web-server-performance-with-nginx-and-php

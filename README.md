@@ -13,3 +13,6 @@ http://www.tuicool.com/articles/j6jMFrf
 
 #Linux比较好的一个文章站
 https://linuxconfig.org
+
+#PHP高并发下防止超卖等的处理方式
+http://www.codeday.top/2017/01/02/11952.html

@@ -24,3 +24,7 @@ http://www.cnblogs.com/zengxiangzhan/archive/2012/12/07/2807141.html
 
 #Nginx优化
 https://seravo.fi/2013/optimizing-web-server-performance-with-nginx-and-php
+
+
+#PHP对象赋值和引用
+http://stackoverflow.com/questions/8962096/copy-of-object-identifier-and-reference-of-object-identifier-which-one-should

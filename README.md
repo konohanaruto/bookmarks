@@ -32,3 +32,6 @@ http://code.stephenmorley.org/php/references-tutorial/
 
 #使用pusher广播
 https://pusher-community.github.io/real-time-laravel/getting-started/event-broadcaster.html
+https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51
+http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-io/
+https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/

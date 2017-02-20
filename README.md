@@ -29,3 +29,6 @@ https://seravo.fi/2013/optimizing-web-server-performance-with-nginx-and-php
 #PHP对象赋值和引用
 http://stackoverflow.com/questions/8962096/copy-of-object-identifier-and-reference-of-object-identifier-which-one-should
 http://code.stephenmorley.org/php/references-tutorial/
+
+#使用pusher广播
+https://pusher-community.github.io/real-time-laravel/getting-started/event-broadcaster.html

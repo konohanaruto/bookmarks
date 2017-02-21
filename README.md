@@ -35,3 +35,5 @@ https://pusher-community.github.io/real-time-laravel/getting-started/event-broad
 https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51
 http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-io/
 https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
+http://hsu.logdown.com/posts/2017/01/17/laravel-with-redis-and-socketio
+http://udn.yyuap.com/thread-131487-1-1.html

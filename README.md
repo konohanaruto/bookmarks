@@ -43,3 +43,6 @@ http://blog.shanamaid.top/2017/02/14/200%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%
 
 #搭建一个重置图片大小的缓存服务器
 http://sumitbirla.com/2011/11/how-to-build-a-scalable-caching-resizing-image-server/
+
+#优化图片缓存，提升web服务器性能
+https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/

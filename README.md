@@ -49,3 +49,6 @@ https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching
 
 #session写入redis-php
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-redis-server-as-a-session-handler-for-php-on-ubuntu-14-04
+
+#mysql中explain
+https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/

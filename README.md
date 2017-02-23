@@ -46,3 +46,6 @@ http://sumitbirla.com/2011/11/how-to-build-a-scalable-caching-resizing-image-ser
 
 #优化图片缓存，提升web服务器性能
 https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/
+
+#session写入redis-php
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-redis-server-as-a-session-handler-for-php-on-ubuntu-14-04

@@ -61,3 +61,6 @@ http://laravel-recipes.com/recipes/52/understanding-the-request-lifecycle
 
 #laravel门面模式的深入理解
 https://www.sitepoint.com/how-laravel-facades-work-and-how-to-use-them-elsewhere/
+
+#laravel中Request和Input的说明
+http://kodeinfo.com/post/requests-inputs-in-laravel

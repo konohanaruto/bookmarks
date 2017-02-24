@@ -52,3 +52,6 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-a-redis-server-as
 
 #mysql中explain
 https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/
+
+#理解和使用Laravel中间件
+https://scotch.io/tutorials/understanding-laravel-middleware

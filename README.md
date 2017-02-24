@@ -55,3 +55,6 @@ https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/
 
 #理解和使用Laravel中间件
 https://scotch.io/tutorials/understanding-laravel-middleware
+
+#理解laravel的请求周期
+http://laravel-recipes.com/recipes/52/understanding-the-request-lifecycle

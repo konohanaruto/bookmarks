@@ -58,3 +58,6 @@ https://scotch.io/tutorials/understanding-laravel-middleware
 
 #理解laravel的请求周期
 http://laravel-recipes.com/recipes/52/understanding-the-request-lifecycle
+
+#laravel门面模式的深入理解
+https://www.sitepoint.com/how-laravel-facades-work-and-how-to-use-them-elsewhere/

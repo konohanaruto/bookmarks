@@ -64,3 +64,6 @@ https://www.sitepoint.com/how-laravel-facades-work-and-how-to-use-them-elsewhere
 
 #laravel中Request和Input的说明
 http://kodeinfo.com/post/requests-inputs-in-laravel
+
+#比较好的一个Linux命令大全手册
+http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/02_file_manage.html

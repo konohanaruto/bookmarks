@@ -32,6 +32,8 @@ http://code.stephenmorley.org/php/references-tutorial/
 
 #使用pusher广播
 https://pusher-community.github.io/real-time-laravel/getting-started/event-broadcaster.html
+
+#Laravel+redis做一个通知系统
 https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51
 http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-io/
 https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
@@ -67,3 +69,4 @@ http://kodeinfo.com/post/requests-inputs-in-laravel
 
 #比较好的一个Linux命令大全手册
 http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/02_file_manage.html
+

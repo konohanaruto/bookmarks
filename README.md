@@ -75,3 +75,6 @@ http://softwareengineering.stackexchange.com/questions/132275/php-web-applicatio
 
 #动态裁切图片php+jquery插件
 http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect
+
+#web网站图片优化
+http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them

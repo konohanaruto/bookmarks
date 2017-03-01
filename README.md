@@ -70,3 +70,5 @@ http://kodeinfo.com/post/requests-inputs-in-laravel
 #比较好的一个Linux命令大全手册
 http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/02_file_manage.html
 
+#PHP大规模Web应用程序架构设计
+http://softwareengineering.stackexchange.com/questions/132275/php-web-application-architecture-design

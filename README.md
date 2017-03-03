@@ -79,3 +79,6 @@ http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect
 
 #web网站图片优化
 http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them
+
+#sed命令的详细使用
+https://www.gnu.org/software/sed/manual/sed.html

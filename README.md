@@ -39,6 +39,7 @@ http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-i
 https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
 http://hsu.logdown.com/posts/2017/01/17/laravel-with-redis-and-socketio
 http://udn.yyuap.com/thread-131487-1-1.html
+https://danholloran.me/2016/01/30/laravel-and-websockets/
 
 #socketio在线聊天室
 http://blog.shanamaid.top/2017/02/14/200%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0web%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4/

@@ -82,3 +82,6 @@ http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to
 
 #sed命令的详细使用
 https://www.gnu.org/software/sed/manual/sed.html
+
+#windows下wamp安装imagick扩展的正确方式，资源pcre包
+https://refreshless.com/blog/imagick-pecl-imagemagick-windows/

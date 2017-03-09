@@ -88,3 +88,6 @@ https://refreshless.com/blog/imagick-pecl-imagemagick-windows/
 
 #mysql查询每个分类前几名信息的多种解决方案
 http://www.sql-ex.com/help/select16.php
+
+#mysql的B+tree详细解析
+http://blog.codinglabs.org/articles/theory-of-mysql-index.html

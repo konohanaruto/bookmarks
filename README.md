@@ -85,3 +85,6 @@ https://www.gnu.org/software/sed/manual/sed.html
 
 #windows下wamp安装imagick扩展的正确方式，资源pcre包
 https://refreshless.com/blog/imagick-pecl-imagemagick-windows/
+
+#mysql查询每个分类前几名信息的多种解决方案
+http://www.sql-ex.com/help/select16.php

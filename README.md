@@ -91,3 +91,6 @@ http://www.sql-ex.com/help/select16.php
 
 #mysql的B+tree详细解析
 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
+
+#Linux集群架构方案
+https://www.centos.bz/

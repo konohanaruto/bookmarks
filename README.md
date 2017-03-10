@@ -94,3 +94,6 @@ http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 
 #Linux集群架构方案
 https://www.centos.bz/
+
+#Mysql优秀博主
+http://blog.itpub.net/22664653/cid-84487-list-2/

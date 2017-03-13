@@ -103,3 +103,6 @@ https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/
 
 #关于Mysql中的死锁
 https://dev.mysql.com/doc/refman/5.7/en/innodb-deadlocks.html
+
+#关于vim尾行模式下的替换命令
+http://vim.wikia.com/wiki/Search_and_replace

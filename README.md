@@ -97,3 +97,6 @@ https://www.centos.bz/
 
 #Mysql优秀博主
 http://blog.itpub.net/22664653/cid-84487-list-2/
+
+#防止Xss攻击
+https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/

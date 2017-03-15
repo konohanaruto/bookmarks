@@ -109,3 +109,7 @@ http://vim.wikia.com/wiki/Search_and_replace
 
 #nodejs中redis的使用
 https://www.sitepoint.com/using-redis-node-js/
+
+#nginx中location的各种配置和操作符的使用~、~*、= 等等符号
+https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx_local_pcre.html
+http://seanlook.com/2015/05/17/nginx-location-rewrite/

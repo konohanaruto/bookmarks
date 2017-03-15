@@ -106,3 +106,6 @@ https://dev.mysql.com/doc/refman/5.7/en/innodb-deadlocks.html
 
 #关于vim尾行模式下的替换命令
 http://vim.wikia.com/wiki/Search_and_replace
+
+#nodejs中redis的使用
+https://www.sitepoint.com/using-redis-node-js/

@@ -113,3 +113,6 @@ https://www.sitepoint.com/using-redis-node-js/
 #nginx中location的各种配置和操作符的使用~、~*、= 等等符号
 https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx_local_pcre.html
 http://seanlook.com/2015/05/17/nginx-location-rewrite/
+
+#js验证null、empty、undefind等
+http://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check-for-null-undefined-or-blank-variables-in

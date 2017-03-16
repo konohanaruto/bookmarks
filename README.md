@@ -116,3 +116,6 @@ http://seanlook.com/2015/05/17/nginx-location-rewrite/
 
 #js验证null、empty、undefind等
 http://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check-for-null-undefined-or-blank-variables-in
+
+#ph7cms安装报错，以及推荐的环境
+https://github.com/pH7Software/pH7-Social-Dating-CMS/issues/95

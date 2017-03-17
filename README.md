@@ -119,3 +119,6 @@ http://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check
 
 #ph7cms安装报错，以及推荐的环境
 https://github.com/pH7Software/pH7-Social-Dating-CMS/issues/95
+
+#牛人对待socket.io的一点看法
+https://medium.com/@ivanderbyl/why-you-don-t-need-socket-io-6848f1c871cd#.dj6211dp6

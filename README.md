@@ -128,3 +128,7 @@ http://www.computernetworkingnotes.com/network-administration/how-to-configure-f
 
 #nginx配置
 https://www.digitalocean.com/community/tutorials/how-to-compile-nginx-from-source-on-a-centos-6-4-x64-vps
+
+#nginx服务静态内容
+http://www.ehowstuff.com/static-website-configuration-for-nginx/
+https://www.nginx.com/resources/admin-guide/serving-static-content/

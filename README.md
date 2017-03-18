@@ -125,3 +125,6 @@ https://medium.com/@ivanderbyl/why-you-don-t-need-socket-io-6848f1c871cd#.dj6211
 
 #ftp服务器的构建及配置详细说明
 http://www.computernetworkingnotes.com/network-administration/how-to-configure-ftp-server-in-rhel6.html
+
+#nginx配置
+https://www.digitalocean.com/community/tutorials/how-to-compile-nginx-from-source-on-a-centos-6-4-x64-vps

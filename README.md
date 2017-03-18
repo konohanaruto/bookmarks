@@ -122,3 +122,6 @@ https://github.com/pH7Software/pH7-Social-Dating-CMS/issues/95
 
 #牛人对待socket.io的一点看法
 https://medium.com/@ivanderbyl/why-you-don-t-need-socket-io-6848f1c871cd#.dj6211dp6
+
+#ftp服务器的构建及配置详细说明
+http://www.computernetworkingnotes.com/network-administration/how-to-configure-ftp-server-in-rhel6.html

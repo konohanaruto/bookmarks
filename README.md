@@ -132,3 +132,4 @@ https://www.digitalocean.com/community/tutorials/how-to-compile-nginx-from-sourc
 #nginx服务静态内容
 http://www.ehowstuff.com/static-website-configuration-for-nginx/
 https://www.nginx.com/resources/admin-guide/serving-static-content/
+

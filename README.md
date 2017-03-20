@@ -44,6 +44,9 @@ https://danholloran.me/2016/01/30/laravel-and-websockets/
 #socketio在线聊天室
 http://blog.shanamaid.top/2017/02/14/200%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0web%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4/
 
+#socketio发送消息到指定客户端的推荐方式是创建一个单独的房间
+http://stackoverflow.com/questions/35680565/sending-message-to-specific-client-in-socket-io
+
 #搭建一个重置图片大小的缓存服务器
 http://sumitbirla.com/2011/11/how-to-build-a-scalable-caching-resizing-image-server/
 

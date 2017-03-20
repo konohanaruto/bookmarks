@@ -133,3 +133,6 @@ https://www.digitalocean.com/community/tutorials/how-to-compile-nginx-from-sourc
 http://www.ehowstuff.com/static-website-configuration-for-nginx/
 https://www.nginx.com/resources/admin-guide/serving-static-content/
 
+#关于Innodb共享表空间ibdata1的问题，以及启用和不启用的问题
+http://dba.stackexchange.com/questions/15531/why-does-innodb-store-all-databases-in-one-file
+http://stackoverflow.com/questions/3927690/howto-clean-a-mysql-innodb-storage-engine/4056261#4056261

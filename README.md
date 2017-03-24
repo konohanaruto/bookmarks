@@ -149,3 +149,6 @@ https://blogs.sap.com/2014/05/19/supporting-resumable-file-uploads-using-html5/
 
 #正则表达式30分钟入门
 http://deerchao.net/tutorials/regex/regex-1.htm
+
+#Laravel中使用验证码
+http://tutsnare.com/how-to-use-captcha-in-laravel-5/

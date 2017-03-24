@@ -146,3 +146,6 @@ https://www.kancloud.cn/thinkphp/mysql-design-optimalize/39319
 #上传文件的暂停和恢复上传
 https://hacks.mozilla.org/2011/04/resumeupload/
 https://blogs.sap.com/2014/05/19/supporting-resumable-file-uploads-using-html5/
+
+#正则表达式30分钟入门
+http://deerchao.net/tutorials/regex/regex-1.htm

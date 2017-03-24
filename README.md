@@ -142,3 +142,6 @@ http://stackoverflow.com/questions/3927690/howto-clean-a-mysql-innodb-storage-en
 
 #怎样使用Mysql索引，使用技巧
 https://www.kancloud.cn/thinkphp/mysql-design-optimalize/39319
+
+#上传文件的暂停和恢复上传
+https://hacks.mozilla.org/2011/04/resumeupload/

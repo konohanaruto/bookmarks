@@ -152,3 +152,6 @@ http://deerchao.net/tutorials/regex/regex-1.htm
 
 #Laravel中使用验证码
 http://tutsnare.com/how-to-use-captcha-in-laravel-5/
+
+#Laravel中布局的使用
+https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-blade-layout-to-standardize-your-pages-appearance/

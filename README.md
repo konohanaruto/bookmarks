@@ -156,3 +156,4 @@ http://tutsnare.com/how-to-use-captcha-in-laravel-5/
 #Laravel中布局的使用以及css等静态文件的分配
 https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-blade-layout-to-standardize-your-pages-appearance/
 http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/
+https://scotch.io/tutorials/simple-laravel-layouts-using-blade

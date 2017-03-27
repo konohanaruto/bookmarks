@@ -160,3 +160,6 @@ https://scotch.io/tutorials/simple-laravel-layouts-using-blade
 
 #ajax上传图片demo，不过按照标准的话最好加上一个enctype="multipart/form-data"属性
 http://phppot.com/php/php-ajax-image-upload/
+
+#linux搭建samba服务器实战, 最后配置文件需改为读写选项，须后期个人博客更新
+http://www.tomsitpro.com/articles/linux-server-configuration-guide-book-excerpt,2-777-2.html

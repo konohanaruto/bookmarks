@@ -157,3 +157,6 @@ http://tutsnare.com/how-to-use-captcha-in-laravel-5/
 https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-blade-layout-to-standardize-your-pages-appearance/
 http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/
 https://scotch.io/tutorials/simple-laravel-layouts-using-blade
+
+#ajax上传图片demo，不过文中似乎少了enctype="multipart/form-data"属性，这点需要注意
+http://phppot.com/php/php-ajax-image-upload/

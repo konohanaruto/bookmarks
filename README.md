@@ -158,5 +158,5 @@ https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-
 http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/
 https://scotch.io/tutorials/simple-laravel-layouts-using-blade
 
-#ajax上传图片demo，不过文中似乎少了enctype="multipart/form-data"属性，这点需要注意
+#ajax上传图片demo，不过按照标准的话最好加上一个enctype="multipart/form-data"属性
 http://phppot.com/php/php-ajax-image-upload/

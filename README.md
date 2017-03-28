@@ -163,3 +163,6 @@ http://phppot.com/php/php-ajax-image-upload/
 
 #linux搭建samba服务器实战, 最后配置文件需改为读写选项，须后期个人博客更新
 http://www.tomsitpro.com/articles/linux-server-configuration-guide-book-excerpt,2-777-2.html
+
+#laravel表单验证
+https://scotch.io/tutorials/laravel-form-validation

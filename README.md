@@ -166,3 +166,6 @@ http://www.tomsitpro.com/articles/linux-server-configuration-guide-book-excerpt,
 
 #laravel表单验证
 https://scotch.io/tutorials/laravel-form-validation
+
+#laravel比较好的学习站点
+http://www.w3laravel.com/

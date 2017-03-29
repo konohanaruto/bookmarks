@@ -169,3 +169,6 @@ https://scotch.io/tutorials/laravel-form-validation
 
 #laravel比较好的学习站点
 http://www.w3laravel.com/
+
+#PHP类似多继承实现代码复用之trait文档
+http://php.net/manual/en/language.oop5.traits.php

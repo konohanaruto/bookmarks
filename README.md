@@ -175,3 +175,6 @@ http://php.net/manual/en/language.oop5.traits.php
 
 #laravel现代restapi架构及目录规划
 http://esbenp.github.io/2016/04/11/modern-rest-api-laravel-part-1/
+
+#laravel加载自定义类
+https://arjunphp.com/load-custom-class-laravel-5/

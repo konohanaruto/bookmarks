@@ -172,3 +172,6 @@ http://www.w3laravel.com/
 
 #PHP类似多继承实现代码复用之trait文档
 http://php.net/manual/en/language.oop5.traits.php
+
+#laravel现代restapi架构及目录规划
+http://esbenp.github.io/2016/04/11/modern-rest-api-laravel-part-1/

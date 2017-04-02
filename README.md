@@ -181,3 +181,8 @@ https://arjunphp.com/load-custom-class-laravel-5/
 
 #laravel service provider
 http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-repositories/
+http://culttt.com/tag/cribbb/
+http://culttt.com/2015/09/14/managing-context-in-a-laravel-application/
+http://culttt.com/2015/08/10/dealing-with-exceptions-in-a-laravel-api-application/
+...
+http://culttt.com/search/?q=laravel

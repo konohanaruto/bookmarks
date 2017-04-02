@@ -178,3 +178,6 @@ http://esbenp.github.io/2016/04/11/modern-rest-api-laravel-part-1/
 
 #laravel加载自定义类
 https://arjunphp.com/load-custom-class-laravel-5/
+
+#laravel service provider
+http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-repositories/

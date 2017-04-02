@@ -184,5 +184,6 @@ http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-re
 http://culttt.com/tag/cribbb/
 http://culttt.com/2015/09/14/managing-context-in-a-laravel-application/
 http://culttt.com/2015/08/10/dealing-with-exceptions-in-a-laravel-api-application/
+http://culttt.com/tag/laravel/page/2/
 ...
 http://culttt.com/search/?q=laravel

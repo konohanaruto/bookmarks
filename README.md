@@ -185,6 +185,8 @@ http://culttt.com/tag/cribbb/
 http://culttt.com/2015/09/14/managing-context-in-a-laravel-application/
 http://culttt.com/2015/08/10/dealing-with-exceptions-in-a-laravel-api-application/
 http://culttt.com/tag/laravel/page/2/
+http://culttt.com/2014/03/17/eloquent-tricks-better-repositories
+http://culttt.com/2014/03/17/eloquent-tricks-better-repositories
 ...
 http://culttt.com/search/?q=laravel
 

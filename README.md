@@ -187,3 +187,6 @@ http://culttt.com/2015/08/10/dealing-with-exceptions-in-a-laravel-api-applicatio
 http://culttt.com/tag/laravel/page/2/
 ...
 http://culttt.com/search/?q=laravel
+
+#api安全之token验证，各种实现方式的流程及优劣
+https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/

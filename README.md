@@ -190,3 +190,9 @@ http://culttt.com/search/?q=laravel
 
 #api安全之token验证，各种实现方式的流程及优劣
 https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/
+
+#手把手实现token验证
+https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
+https://stormpath.com/blog/token-management-in-php
+http://phpclicks.com/php-token-based-authentication/
+https://gistlog.co/JacobBennett/090369fbab0b31130b51

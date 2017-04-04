@@ -198,3 +198,6 @@ https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
 https://stormpath.com/blog/token-management-in-php
 http://phpclicks.com/php-token-based-authentication/
 https://gistlog.co/JacobBennett/090369fbab0b31130b51
+
+#表单验证插件jquery-validation
+http://www.cnblogs.com/xiaoqian1993/p/5822604.html

@@ -190,6 +190,7 @@ http://culttt.com/2014/03/17/eloquent-tricks-better-repositories
 ...
 http://culttt.com/search/?q=laravel
 
+
 #api安全之token验证，各种实现方式的流程及优劣
 https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/
 
@@ -201,3 +202,6 @@ https://gistlog.co/JacobBennett/090369fbab0b31130b51
 
 #表单验证插件jquery-validation
 http://www.cnblogs.com/xiaoqian1993/p/5822604.html
+
+#laravel repository模式
+https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/

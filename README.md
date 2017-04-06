@@ -205,3 +205,4 @@ http://www.cnblogs.com/xiaoqian1993/p/5822604.html
 
 #laravel repository模式
 https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/
+http://stackoverflow.com/questions/40693269/where-to-add-own-repository-class-and-interfaces-in-laravel

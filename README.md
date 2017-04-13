@@ -208,3 +208,7 @@ https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/
 http://stackoverflow.com/questions/40693269/where-to-add-own-repository-class-and-interfaces-in-laravel
 https://www.reddit.com/r/laravel/comments/2bfyik/what_are_file_structure_best_practices_for/
 http://blog.leapoahead.com/2015/09/06/understanding-jwt/
+
+#PHP中防止SQL注入方案
+http://www.wikihow.com/Prevent-SQL-Injection-in-PHP
+http://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php

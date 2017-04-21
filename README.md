@@ -212,3 +212,6 @@ http://blog.leapoahead.com/2015/09/06/understanding-jwt/
 #PHP中防止SQL注入方案
 http://www.wikihow.com/Prevent-SQL-Injection-in-PHP
 http://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
+
+#ajax重试方案最佳实践JQuery方案
+http://stackoverflow.com/questions/10024469/whats-the-best-way-to-retry-an-ajax-request-on-failure-using-jquery

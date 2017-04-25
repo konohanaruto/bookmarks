@@ -218,3 +218,6 @@ http://stackoverflow.com/questions/10024469/whats-the-best-way-to-retry-an-ajax-
 
 #laravel路由和路由组说明
 https://scotch.io/tutorials/understanding-laravel-middleware
+
+#laravel中service provider的使用
+https://laraveltips.wordpress.com/2015/06/11/how-to-create-a-service-provider-in-laravel-5-1/

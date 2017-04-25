@@ -215,3 +215,6 @@ http://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
 
 #ajax重试方案最佳实践JQuery方案
 http://stackoverflow.com/questions/10024469/whats-the-best-way-to-retry-an-ajax-request-on-failure-using-jquery
+
+#laravel路由和路由组说明
+https://scotch.io/tutorials/understanding-laravel-middleware

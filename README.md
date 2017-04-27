@@ -221,3 +221,6 @@ https://scotch.io/tutorials/understanding-laravel-middleware
 
 #laravel中service provider的使用
 https://laraveltips.wordpress.com/2015/06/11/how-to-create-a-service-provider-in-laravel-5-1/
+
+#Laravel中使用自定义的用户认证服务Authentication
+https://jamesmcfadden.co.uk/custom-authentication-in-laravel-with-guards-and-user-service-providers

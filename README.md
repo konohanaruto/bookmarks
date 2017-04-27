@@ -224,3 +224,9 @@ https://laraveltips.wordpress.com/2015/06/11/how-to-create-a-service-provider-in
 
 #Laravel中使用自定义的用户认证服务Authentication
 https://jamesmcfadden.co.uk/custom-authentication-in-laravel-with-guards-and-user-service-providers
+
+#laravel中使用migration报错键长度变长的解决方案
+https://laravel-news.com/laravel-5-4-key-too-long-error
+
+#laravel中手把手实践用户认证系列
+http://www.expertphp.in/article/simple-and-easy-laravel-52-login-and-register-using-the-auth-scaffold

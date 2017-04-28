@@ -233,3 +233,6 @@ http://www.expertphp.in/article/simple-and-easy-laravel-52-login-and-register-us
 
 #创建多角色基于PHP+Mysql详细教程
 https://www.thesoftwareguy.in/creating-multi-user-role-based-admin-using-php-mysql-bootstrap/
+
+#构建最好的登录系统(包含角色和权限)
+https://code.tutsplus.com/tutorials/a-better-login-system--net-3461

@@ -239,3 +239,6 @@ https://code.tutsplus.com/tutorials/a-better-login-system--net-3461
 
 #Joomla权限系统架构详解
 https://docs.joomla.org/J3.x:Access_Control_List_Tutorial
+
+#RBAC权限系统实战
+https://www.sitepoint.com/role-based-access-control-in-php/

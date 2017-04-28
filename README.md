@@ -230,3 +230,6 @@ https://laravel-news.com/laravel-5-4-key-too-long-error
 
 #laravel中手把手实践用户认证系列
 http://www.expertphp.in/article/simple-and-easy-laravel-52-login-and-register-using-the-auth-scaffold
+
+#创建多角色基于PHP+Mysql详细教程
+https://www.thesoftwareguy.in/creating-multi-user-role-based-admin-using-php-mysql-bootstrap/

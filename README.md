@@ -245,3 +245,6 @@ https://www.sitepoint.com/role-based-access-control-in-php/
 
 #Application访问控制
 http://stackoverflow.com/questions/3430181/how-can-i-implement-an-access-control-list-in-my-web-mvc-application
+
+#关于ACL(Access Control List)的轻量级类 Phalcon\Acl 的使用
+https://docs.phalconphp.com/en/3.0.0/reference/acl.html

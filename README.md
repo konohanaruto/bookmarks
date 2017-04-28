@@ -236,3 +236,6 @@ https://www.thesoftwareguy.in/creating-multi-user-role-based-admin-using-php-mys
 
 #构建最好的登录系统(包含角色和权限)
 https://code.tutsplus.com/tutorials/a-better-login-system--net-3461
+
+#Joomla权限系统架构详解
+https://docs.joomla.org/J3.x:Access_Control_List_Tutorial

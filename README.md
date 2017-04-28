@@ -242,3 +242,6 @@ https://docs.joomla.org/J3.x:Access_Control_List_Tutorial
 
 #RBAC权限系统实战
 https://www.sitepoint.com/role-based-access-control-in-php/
+
+#Application访问控制
+http://stackoverflow.com/questions/3430181/how-can-i-implement-an-access-control-list-in-my-web-mvc-application

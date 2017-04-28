@@ -248,3 +248,6 @@ http://stackoverflow.com/questions/3430181/how-can-i-implement-an-access-control
 
 #关于ACL(Access Control List)的轻量级类 Phalcon\Acl 的使用
 https://docs.phalconphp.com/en/3.0.0/reference/acl.html
+
+#Laravel使用ACL中间件用法
+https://heera.it/laravel-5-1-x-acl-middleware

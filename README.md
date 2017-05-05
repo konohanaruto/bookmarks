@@ -251,3 +251,6 @@ https://docs.phalconphp.com/en/3.0.0/reference/acl.html
 
 #Laravel使用ACL中间件用法
 https://heera.it/laravel-5-1-x-acl-middleware
+
+#HTML5图片上传，包含多图上传等实战
+https://developer.mozilla.org/en/docs/Using_files_from_web_applications

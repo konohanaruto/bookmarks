@@ -254,3 +254,6 @@ https://heera.it/laravel-5-1-x-acl-middleware
 
 #HTML5图片上传，包含多图上传等实战
 https://developer.mozilla.org/en/docs/Using_files_from_web_applications
+
+#构建安全的登录系统，利用salt机制并非存储MD5密码
+http://forums.devshed.com/php-faqs-stickies-167/program-basic-secure-login-system-using-php-mysql-891201.html

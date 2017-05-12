@@ -257,3 +257,12 @@ https://developer.mozilla.org/en/docs/Using_files_from_web_applications
 
 #构建安全的登录系统，利用salt机制并非存储MD5密码
 http://forums.devshed.com/php-faqs-stickies-167/program-basic-secure-login-system-using-php-mysql-891201.html
+
+#关于PHP和IOS安卓等之间API接口安全认证非常好的博文
+https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security
+https://stormpath.com/blog/manage-authentication-lifecycle-mobile
+https://stormpath.com/blog/build-user-authentication-for-android-app
+https://stormpath.com/blog/token-management-in-php
+https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
+https://stormpath.com/blog/build-api-restify-stormpath
+https://stormpath.com/blog/secure-your-rest-api-right-way

@@ -272,3 +272,6 @@ http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
 http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 https://connect2id.com/learn/oauth-2
+
+#插入前判断数据不重复高性能Mysql插入
+http://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql

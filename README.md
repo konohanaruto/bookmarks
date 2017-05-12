@@ -266,3 +266,9 @@ https://stormpath.com/blog/token-management-in-php
 https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
 https://stormpath.com/blog/build-api-restify-stormpath
 https://stormpath.com/blog/secure-your-rest-api-right-way
+
+#Open Authorization 2.0的介绍
+http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
+http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+https://connect2id.com/learn/oauth-2

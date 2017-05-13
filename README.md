@@ -278,3 +278,4 @@ http://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql
 
 #clustered index Mysql中聚簇索引和二级索引在不同存储引擎的不同点以及工作原理
 https://www.xaprb.com/blog/2006/07/04/how-to-exploit-mysql-index-optimizations/
+小插曲，此大神乃高性能Mysql作者之一，其博客地址:https://www.xaprb.com/blog

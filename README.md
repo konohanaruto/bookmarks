@@ -275,3 +275,6 @@ https://connect2id.com/learn/oauth-2
 
 #插入前判断数据不重复高性能Mysql插入
 http://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql
+
+#clustered index Mysql中聚簇索引和二级索引在不同存储引擎的不同点以及工作原理
+https://www.xaprb.com/blog/2006/07/04/how-to-exploit-mysql-index-optimizations/

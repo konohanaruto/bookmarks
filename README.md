@@ -307,3 +307,7 @@ https://www.xaprb.com/blog/2006/10/09/how-to-find-duplicate-rows-with-sql/
 
 #如何使用SQL删除重复的行
 https://www.xaprb.com/blog/2006/10/11/how-to-delete-duplicate-rows-with-sql/
+
+#OAuth2.0手册, 扩展包league/oauth2-server, 以及在Laravel中的使用
+https://oauth2.thephpleague.com/
+http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/

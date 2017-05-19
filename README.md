@@ -311,3 +311,6 @@ https://www.xaprb.com/blog/2006/10/11/how-to-delete-duplicate-rows-with-sql/
 #OAuth2.0手册, 扩展包league/oauth2-server, 以及在Laravel中的使用
 https://oauth2.thephpleague.com/
 http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/
+
+#页面读取进度条插件
+http://github.hubspot.com/pace/docs/welcome/

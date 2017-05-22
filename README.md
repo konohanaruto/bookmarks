@@ -314,3 +314,6 @@ http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/
 
 #页面读取进度条插件
 http://github.hubspot.com/pace/docs/welcome/
+
+#Mysql获得每个分组下前N条记录的方式
+http://www.databasejournal.com/features/mysql/selecting-the-top-n-results-by-group-in-mysql.html

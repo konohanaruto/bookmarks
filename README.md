@@ -317,3 +317,6 @@ http://github.hubspot.com/pace/docs/welcome/
 
 #Mysql获得每个分组下前N条记录的方式
 http://www.databasejournal.com/features/mysql/selecting-the-top-n-results-by-group-in-mysql.html
+
+#快速排序详解
+http://www.mycstutorials.com/articles/sorting/quicksort

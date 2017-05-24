@@ -323,3 +323,6 @@ http://www.mycstutorials.com/articles/sorting/quicksort
 
 #Laravel RBAC 
 http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html
+
+#推荐的Laravel权限分配最佳解决方案5.4版本
+https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission

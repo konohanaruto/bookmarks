@@ -320,3 +320,6 @@ http://www.databasejournal.com/features/mysql/selecting-the-top-n-results-by-gro
 
 #快速排序详解
 http://www.mycstutorials.com/articles/sorting/quicksort
+
+#Laravel RBAC 
+http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html

@@ -326,3 +326,4 @@ http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-m
 
 #推荐的Laravel权限分配最佳解决方案5.4版本
 https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission
+http://www.qcode.in/easy-roles-and-permissions-in-laravel-5-4/

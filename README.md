@@ -333,3 +333,6 @@ https://qiutc.me/post/uploading-image-file-in-mobile-fe.html
 
 #PHP和app端通信最佳的oauth2.0实践方式
 https://bshaffer.github.io/oauth2-server-php-docs/
+
+#强烈建议去观看的Oauth介绍视频
+https://knpuniversity.com/screencast/oauth

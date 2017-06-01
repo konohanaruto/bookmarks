@@ -330,3 +330,6 @@ http://www.qcode.in/easy-roles-and-permissions-in-laravel-5-4/
 
 #js先压缩图片，然后用formdata和其它数据一起提交最佳实战
 https://qiutc.me/post/uploading-image-file-in-mobile-fe.html
+
+#PHP和app端通信最佳的oauth2.0实践方式
+https://bshaffer.github.io/oauth2-server-php-docs/

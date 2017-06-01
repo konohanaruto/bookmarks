@@ -336,3 +336,6 @@ https://bshaffer.github.io/oauth2-server-php-docs/
 
 #强烈建议去观看的Oauth介绍视频
 https://knpuniversity.com/screencast/oauth
+
+#Oauth2.0框架介绍
+https://tools.ietf.org/html/rfc6749

@@ -342,3 +342,6 @@ https://knpuniversity.com/screencast/oauth
 
 #Oauth2.0框架介绍
 https://tools.ietf.org/html/rfc6749
+
+#Mysql层次化(嵌套)数据管理无限级分类架构实现剖析以及纯Sql实现方式
+http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/

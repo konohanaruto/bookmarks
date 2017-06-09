@@ -345,3 +345,9 @@ https://tools.ietf.org/html/rfc6749
 
 #Mysql层次化(嵌套)数据管理无限级分类架构实现剖析以及纯Sql实现方式
 http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/
+
+#php+fine-uploader实现文件上传时的暂停和恢复上传的功能
+http://phppot.com/php/pause-resume-file-upload-using-javascript/
+
+#不错的女程序员博客
+http://phppot.com

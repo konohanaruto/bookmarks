@@ -351,3 +351,6 @@ http://phppot.com/php/pause-resume-file-upload-using-javascript/
 
 #不错的女程序员博客
 http://phppot.com
+
+#laravel中的Repostory设计模式
+https://www.wedidknow.xyz/2017/03/repository-pattern-in-laravel.html

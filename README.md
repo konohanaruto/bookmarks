@@ -357,3 +357,6 @@ https://www.wedidknow.xyz/2017/03/repository-pattern-in-laravel.html
 
 #关于PHP异常处理的概述
 https://www.alainschlesser.com/structuring-php-exceptions
+
+#php怎么处理Mysql的大结果集
+https://www.percona.com/blog/2006/06/26/handling-of-big-parts-of-data/

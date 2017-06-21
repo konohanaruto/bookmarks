@@ -354,3 +354,6 @@ http://phppot.com
 
 #laravel中的Repostory设计模式
 https://www.wedidknow.xyz/2017/03/repository-pattern-in-laravel.html
+
+#关于PHP异常处理的概述
+https://www.alainschlesser.com/structuring-php-exceptions

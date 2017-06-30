@@ -360,3 +360,6 @@ https://www.alainschlesser.com/structuring-php-exceptions
 
 #php怎么处理Mysql的大结果集
 https://www.percona.com/blog/2006/06/26/handling-of-big-parts-of-data/
+
+#常用的队列库大全
+http://queues.io

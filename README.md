@@ -363,3 +363,7 @@ https://www.percona.com/blog/2006/06/26/handling-of-big-parts-of-data/
 
 #常用的队列库大全
 http://queues.io
+
+#Laravel表单验证代码复用
+https://laracasts.com/series/laravel-from-scratch-2017/episodes/28
+https://laravel.com/docs/5.4/validation#form-request-validation

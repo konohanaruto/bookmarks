@@ -367,3 +367,6 @@ http://queues.io
 #Laravel表单验证代码复用
 https://laracasts.com/series/laravel-from-scratch-2017/episodes/28
 https://laravel.com/docs/5.4/validation#form-request-validation
+
+#nodejs高可用部署
+https://blog.box.com/blog/node-js-high-availability-at-box/

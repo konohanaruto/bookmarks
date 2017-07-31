@@ -370,3 +370,7 @@ https://laravel.com/docs/5.4/validation#form-request-validation
 
 #nodejs高可用部署
 https://blog.box.com/blog/node-js-high-availability-at-box/
+
+#怎样使你本地的电脑能通过public ip访问
+https://superuser.com/questions/526899/how-to-make-my-ip-publicly-accessible-to-make-my-local-tomcat-server-public/526900
+https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/

@@ -374,3 +374,7 @@ https://blog.box.com/blog/node-js-high-availability-at-box/
 #怎样使你本地的电脑能通过public ip访问
 https://superuser.com/questions/526899/how-to-make-my-ip-publicly-accessible-to-make-my-local-tomcat-server-public/526900
 https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/
+
+#使用git hook去同步开发代码到生产环境
+https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa
+https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks

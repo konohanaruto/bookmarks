@@ -378,3 +378,6 @@ https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/
 #使用git hook去同步开发代码到生产环境
 https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa
 https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
+
+#php开发api版本的控制以及注意细节
+http://blog.mugunthkumar.com/articles/restful-api-server-doing-it-the-right-way-part-1/

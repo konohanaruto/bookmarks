@@ -381,3 +381,6 @@ https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automat
 
 #php开发api版本的控制以及注意细节
 http://blog.mugunthkumar.com/articles/restful-api-server-doing-it-the-right-way-part-1/
+
+#php项目部署到生产环境实战
+https://www.sitepoint.com/deploying-php-applications-with-deployer/

@@ -387,3 +387,6 @@ http://blog.mugunthkumar.com/articles/restful-api-server-doing-it-the-right-way-
 
 #php项目部署到生产环境实战
 https://www.sitepoint.com/deploying-php-applications-with-deployer/
+
+#详解Http缓存值Etag头
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching#invalidating_and_updating_cached_responses

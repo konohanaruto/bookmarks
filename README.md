@@ -390,3 +390,6 @@ https://www.sitepoint.com/deploying-php-applications-with-deployer/
 
 #详解Http缓存值Etag头
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching#invalidating_and_updating_cached_responses
+
+#css缓存战略
+https://css-tricks.com/strategies-for-cache-busting-css/

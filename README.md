@@ -406,3 +406,6 @@ https://www.metaltoad.com/blog/using-jsonp-safely
 
 #jsonp注入实战
 https://securitycafe.ro/2017/01/18/practical-jsonp-injection/
+
+#使用laravel认证包
+http://esbenp.github.io/2017/03/19/modern-rest-api-laravel-part-4/

@@ -402,6 +402,7 @@ https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-
 https://www.html5rocks.com/en/tutorials/cors/
 https://beebole.com/blog/sandbox-your-cross-domain-jsonp-to-improve-mashup-security/  安全问题
 https://phocean.net/2013/10/13/csrf-with-jsonp.html
+https://www.metaltoad.com/blog/using-jsonp-safely
 
 #jsonp注入实战
 https://securitycafe.ro/2017/01/18/practical-jsonp-injection/

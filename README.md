@@ -401,3 +401,4 @@ https://phpunit.de/manual/current/en/installation.html
 https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-layman-terms
 https://www.html5rocks.com/en/tutorials/cors/
 https://beebole.com/blog/sandbox-your-cross-domain-jsonp-to-improve-mashup-security/  安全问题
+https://phocean.net/2013/10/13/csrf-with-jsonp.html

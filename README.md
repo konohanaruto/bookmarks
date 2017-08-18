@@ -399,3 +399,4 @@ https://phpunit.de/manual/current/en/installation.html
 
 #详细描述jsonp
 https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-layman-terms
+https://www.html5rocks.com/en/tutorials/cors/

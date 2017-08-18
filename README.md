@@ -409,3 +409,6 @@ https://securitycafe.ro/2017/01/18/practical-jsonp-injection/
 
 #使用laravel认证包
 http://esbenp.github.io/2017/03/19/modern-rest-api-laravel-part-4/
+
+#laravel中使用Repository和service构建灵活的应用
+http://dfg.gd/blog/decoupling-your-code-in-laravel-using-repositiories-and-services

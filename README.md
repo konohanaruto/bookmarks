@@ -396,3 +396,6 @@ https://css-tricks.com/strategies-for-cache-busting-css/
 
 #phpunit在windows下的安装
 https://phpunit.de/manual/current/en/installation.html
+
+#详细描述jsonp
+https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-layman-terms

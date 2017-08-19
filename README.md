@@ -412,3 +412,6 @@ http://esbenp.github.io/2017/03/19/modern-rest-api-laravel-part-4/
 
 #laravel中使用Repository和service构建灵活的应用
 http://dfg.gd/blog/decoupling-your-code-in-laravel-using-repositiories-and-services
+
+#深入阐述Laravel容器
+https://davejamesmiller.com/2017/06/15/laravel-illuminate-container-in-depth

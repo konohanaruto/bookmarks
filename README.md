@@ -415,3 +415,6 @@ http://dfg.gd/blog/decoupling-your-code-in-laravel-using-repositiories-and-servi
 
 #深入阐述Laravel容器
 https://davejamesmiller.com/2017/06/15/laravel-illuminate-container-in-depth
+
+#di容器官方文档
+http://php-di.org/doc/getting-started.html

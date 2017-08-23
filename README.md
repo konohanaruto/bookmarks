@@ -424,3 +424,6 @@ http://www.the-art-of-web.com/php/html-xpath-query/
 
 #Laravel添加你自定义Helpers
 http://slick.pl/kb/laravel/add-your-custom-helpers-in-laravel-5/
+
+#php trait vs Interface
+https://stackoverflow.com/questions/9205083/traits-vs-interfaces

@@ -418,3 +418,6 @@ https://davejamesmiller.com/2017/06/15/laravel-illuminate-container-in-depth
 
 #di容器官方文档
 http://php-di.org/doc/getting-started.html
+
+#使用DomDocument和DomXPath解析你的Html文件内容
+http://www.the-art-of-web.com/php/html-xpath-query/

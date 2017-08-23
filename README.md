@@ -421,3 +421,6 @@ http://php-di.org/doc/getting-started.html
 
 #使用DomDocument和DomXPath解析你的Html文件内容
 http://www.the-art-of-web.com/php/html-xpath-query/
+
+#Laravel添加你自定义Helpers
+http://slick.pl/kb/laravel/add-your-custom-helpers-in-laravel-5/

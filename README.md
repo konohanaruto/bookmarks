@@ -427,3 +427,6 @@ http://slick.pl/kb/laravel/add-your-custom-helpers-in-laravel-5/
 
 #php trait vs Interface
 https://stackoverflow.com/questions/9205083/traits-vs-interfaces
+
+#Laravel中@push和@stack指令的使用
+https://laracasts.com/discuss/channels/general-discussion/blade-push-and-stack-are-they-here-to-stay

@@ -430,3 +430,9 @@ https://stackoverflow.com/questions/9205083/traits-vs-interfaces
 
 #Laravel中@push和@stack指令的使用
 https://laracasts.com/discuss/channels/general-discussion/blade-push-and-stack-are-they-here-to-stay
+
+#laravel日志存储方案和日志的解析
+http://www.darwinbiler.com/parsing-and-sending-laravel-logs-to-elasticsearch-using-logstash/
+https://blog.madewithlove.be/post/integrating-elasticsearch-with-your-laravel-app/
+https://stackoverflow.com/questions/35571056/elasticsearch-in-laravel-5-1
+http://seregazhuk.github.io/2016/07/30/laravel-logging-to-db/

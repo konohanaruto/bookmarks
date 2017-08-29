@@ -437,3 +437,4 @@ https://blog.madewithlove.be/post/integrating-elasticsearch-with-your-laravel-ap
 https://stackoverflow.com/questions/35571056/elasticsearch-in-laravel-5-1
 http://seregazhuk.github.io/2016/07/30/laravel-logging-to-db/
 https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-16-04
+https://www.slideshare.net/benwaine/application-logging-with-logstash

@@ -441,3 +441,6 @@ https://www.slideshare.net/benwaine/application-logging-with-logstash
 
 #laravel中使用Mongodb存储log
 http://motbit.com/su-dung-mongodb-de-luu-log-cho-laravel-5.html
+
+#同时使用多个数据库连接，在Laravel中
+https://laravel.io/forum/10-17-2016-how-to-use-multiple-database-connections-in-laravel-project

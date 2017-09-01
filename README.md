@@ -444,3 +444,8 @@ http://motbit.com/su-dung-mongodb-de-luu-log-cho-laravel-5.html
 
 #同时使用多个数据库连接，在Laravel中
 https://laravel.io/forum/10-17-2016-how-to-use-multiple-database-connections-in-laravel-project
+https://dyrynda.com.au/blog/configuring-per-environment-logging-in-laravel-5
+https://github.com/laravel/framework/issues/19986
+https://stackoverflow.com/questions/39494218/unable-to-access-env-variables-in-app-bootstrap
+https://stackoverflow.com/questions/43657419/how-to-extend-laravel-logger
+https://blog.muya.co.ke/configure-custom-logging-in-laravel-5/

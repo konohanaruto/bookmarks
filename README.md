@@ -451,3 +451,6 @@ https://stackoverflow.com/questions/43657419/how-to-extend-laravel-logger
 https://blog.muya.co.ke/configure-custom-logging-in-laravel-5/
 http://fideloper.com/laravel-multiple-database-connections
 http://laraveldaily.com/multiple-database-connections-in-the-same-laravel-project/
+
+#递归参数和变量的理解
+http://www.360doc.com/content/16/0530/22/6828497_563659833.shtml

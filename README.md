@@ -460,3 +460,4 @@ https://stackoverflow.com/questions/38562017/laravel-exceptions-handler/38629621
 
 #端口映射工具
 https://ngrok.com/
+https://laracasts.com/discuss/channels/tips/l5-exception-handlers

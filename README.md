@@ -461,3 +461,7 @@ https://stackoverflow.com/questions/38562017/laravel-exceptions-handler/38629621
 #端口映射工具
 https://ngrok.com/
 https://laracasts.com/discuss/channels/tips/l5-exception-handlers
+
+#laravel根据客户端accept请求头自动返回不同类型的响应
+https://stackoverflow.com/questions/34777411/laravel-resourceful-controller-differentiate-an-api-call-from-a-browser
+http://fideloper.com/laravel-content-negotiation

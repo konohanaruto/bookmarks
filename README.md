@@ -473,6 +473,7 @@ http://eloquentdeveloper.com/2016/09/12/integrate-elasticsearch-mongodb/
 http://christina04.hatenablog.com/entry/2016/08/25/011929
 https://dba.stackexchange.com/questions/180189/cant-run-rs-initiate-when-do-mongodb-replication-set(解决方案)
 https://madhacker.me/use-mongodb-and-elasticsearch-2/
+https://severalnines.com/blog/become-mongodb-dba-basics-mongodb-configuration
 
 #Mysql唯一id生成方案和水平分表方案
 http://blog.csdn.net/z69183787/article/details/61918672

@@ -468,6 +468,7 @@ http://fideloper.com/laravel-content-negotiation
 
 #mongodb和elastic实时同步
 https://stackoverflow.com/questions/28843496/cant-initiate-replica-set-in-ubuntu
+https://www.linode.com/docs/databases/mongodb/create-a-mongodb-replica-set
 
 #Mysql唯一id生成方案和水平分表方案
 http://blog.csdn.net/z69183787/article/details/61918672

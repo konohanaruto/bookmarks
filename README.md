@@ -480,3 +480,6 @@ https://severalnines.com/blog/become-mongodb-dba-basics-mongodb-configuration
 
 #Mysql唯一id生成方案和水平分表方案
 http://blog.csdn.net/z69183787/article/details/61918672
+
+#phpinfo显示libjpeg版本为unknow解决方案
+http://dougaoyang.github.io/2014/10/22/php-jpg-issue.html

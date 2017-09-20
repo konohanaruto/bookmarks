@@ -484,3 +484,6 @@ http://blog.csdn.net/z69183787/article/details/61918672
 
 #phpinfo显示libjpeg版本为unknow解决方案
 http://dougaoyang.github.io/2014/10/22/php-jpg-issue.html
+
+#Laravel使用view composer
+https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers#toc-conclusion

@@ -487,3 +487,7 @@ http://dougaoyang.github.io/2014/10/22/php-jpg-issue.html
 
 #Laravel使用view composer
 https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers#toc-conclusion
+
+#larave中创建自定义规则以及传递参数和parameters参数的含义
+https://stackoverflow.com/questions/36118929/passing-variable-to-validator-laravel
+

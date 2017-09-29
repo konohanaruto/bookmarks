@@ -491,3 +491,6 @@ https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-compos
 #larave中创建自定义规则以及传递参数和parameters参数的含义
 https://stackoverflow.com/questions/36118929/passing-variable-to-validator-laravel
 
+#Laravel添加自定义语言
+http://www.expertphp.in/article/creating-multilingual-website-using-localization-in-laravel-5-4
+

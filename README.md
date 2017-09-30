@@ -494,3 +494,8 @@ https://stackoverflow.com/questions/36118929/passing-variable-to-validator-larav
 #Laravel添加自定义语言
 http://www.expertphp.in/article/creating-multilingual-website-using-localization-in-laravel-5-4
 
+#Laravel中Mass Assignment的介绍
+https://stackoverflow.com/questions/22279435/what-does-mass-assignment-mean-in-laravel
+
+#laravel中使用添加自定义门面，以及Service Parttern
+https://websanova.com/blog/laravel/global-data-in-laravel

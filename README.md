@@ -499,3 +499,6 @@ https://stackoverflow.com/questions/22279435/what-does-mass-assignment-mean-in-l
 
 #laravel中使用添加自定义门面，以及Service Parttern
 https://websanova.com/blog/laravel/global-data-in-laravel
+
+#laravel查看api帮助
+https://laravel.com/api/5.4/index.html

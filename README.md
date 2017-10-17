@@ -502,3 +502,6 @@ https://websanova.com/blog/laravel/global-data-in-laravel
 
 #laravel查看api帮助
 https://laravel.com/api/5.4/index.html
+
+#4种非常有用的redis类型
+https://scaleyourcode.com/blog/article/14

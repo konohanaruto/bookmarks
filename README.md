@@ -505,3 +505,7 @@ https://laravel.com/api/5.4/index.html
 
 #4种非常有用的redis类型
 https://scaleyourcode.com/blog/article/14
+
+#yii2运行时执行自定义代码方法实现bootstrapinterface
+http://www.yiiframework.com/wiki/652/how-to-use-bootstrapinterface/
+https://stackoverflow.com/questions/27778477/how-to-make-custom-settings-data-available-globally-in-yii-2

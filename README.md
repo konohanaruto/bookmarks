@@ -512,3 +512,6 @@ https://stackoverflow.com/questions/27778477/how-to-make-custom-settings-data-av
 
 #laravel中@yield、@section和@show的区别，以及
 https://laravel.io/forum/06-20-2014-yield-vs-section-show
+
+#七牛云在laravel中的简单使用
+http://www.cnblogs.com/pengzhendong/p/4855076.html

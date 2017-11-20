@@ -509,3 +509,6 @@ https://scaleyourcode.com/blog/article/14
 #yii2运行时执行自定义代码方法实现bootstrapinterface
 http://www.yiiframework.com/wiki/652/how-to-use-bootstrapinterface/
 https://stackoverflow.com/questions/27778477/how-to-make-custom-settings-data-available-globally-in-yii-2
+
+#laravel中@yield、@section和@show的区别，以及
+https://laravel.io/forum/06-20-2014-yield-vs-section-show

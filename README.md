@@ -515,3 +515,6 @@ https://laravel.io/forum/06-20-2014-yield-vs-section-show
 
 #七牛云在laravel中的简单使用
 http://www.cnblogs.com/pengzhendong/p/4855076.html
+
+#laravel事件驱动说明以及思考
+https://blog.pusher.com/event-driven-laravel-applications/

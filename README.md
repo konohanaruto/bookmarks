@@ -518,3 +518,6 @@ http://www.cnblogs.com/pengzhendong/p/4855076.html
 
 #laravel事件驱动说明以及思考
 https://blog.pusher.com/event-driven-laravel-applications/
+
+#yii2中standalone action的使用
+https://www.tutorialspoint.com/yii/yii_using_actions.htm

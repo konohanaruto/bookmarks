@@ -521,3 +521,6 @@ https://blog.pusher.com/event-driven-laravel-applications/
 
 #yii2中standalone action的使用
 https://www.tutorialspoint.com/yii/yii_using_actions.htm
+
+#有几篇laravel的好博文的站点
+http://oomusou.io/

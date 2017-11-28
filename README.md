@@ -460,6 +460,7 @@ http://www.360doc.com/content/16/0530/22/6828497_563659833.shtml
 
 #laravel自定义异常避免render方法多个if和else
 https://stackoverflow.com/questions/38562017/laravel-exceptions-handler/38629621#38629621
+https://laracasts.com/discuss/channels/code-review/best-way-to-handle-rest-api-errors-throwed-from-controller-or-exception
 
 #端口映射工具
 https://ngrok.com/

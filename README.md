@@ -525,3 +525,6 @@ https://www.tutorialspoint.com/yii/yii_using_actions.htm
 
 #有几篇laravel的好博文的站点
 http://oomusou.io/
+
+#laravel分层架构
+https://stackoverflow.com/questions/22566572/what-are-the-practices-for-working-from-a-fat-model-skinny-controller-perspec

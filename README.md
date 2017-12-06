@@ -528,3 +528,6 @@ http://oomusou.io/
 
 #laravel分层架构
 https://stackoverflow.com/questions/22566572/what-are-the-practices-for-working-from-a-fat-model-skinny-controller-perspec
+
+#无状态化应用设计及原理
+https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/

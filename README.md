@@ -531,3 +531,6 @@ https://stackoverflow.com/questions/22566572/what-are-the-practices-for-working-
 
 #无状态化应用设计及原理
 https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/
+
+yii2中切换语言的解决方案，可以参考此篇博文以及使用cookie和session
+https://stackoverflow.com/questions/27180059/execute-my-code-before-any-action-of-any-controller/28975463

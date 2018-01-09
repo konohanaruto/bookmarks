@@ -534,3 +534,6 @@ https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using
 
 yii2中切换语言的解决方案，可以参考此篇博文以及使用cookie和session
 https://stackoverflow.com/questions/27180059/execute-my-code-before-any-action-of-any-controller/28975463
+
+#nginx1.10版本无法加载upload_progress的问题
+https://github.com/masterzen/nginx-upload-progress-module/issues/47

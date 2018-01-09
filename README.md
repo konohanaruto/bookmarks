@@ -537,3 +537,4 @@ https://stackoverflow.com/questions/27180059/execute-my-code-before-any-action-o
 
 #nginx1.10版本无法加载upload_progress的问题
 https://github.com/masterzen/nginx-upload-progress-module/issues/47
+https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/

@@ -298,143 +298,143 @@ https://www.xaprb.com/blog/2006/08/03/a-little-known-way-to-cause-a-database-dea
 #怎样在Mysql中故意制造死锁
 https://www.xaprb.com/blog/2006/08/08/how-to-deliberately-cause-a-deadlock-in-mysql/
 
-#如何在SQL中构建基于角色的访问控制
+# 如何在SQL中构建基于角色的访问控制
 ``1
 https://www.xaprb.com/blog/2006/08/16/how-to-build-role-based-access-control-in-sql/
 ``2
 https://www.xaprb.com/blog/2006/08/18/role-based-access-control-in-sql-part-2/
 
-#如何在MySQL中找到重复和冗余的索引
+# 如何在MySQL中找到重复和冗余的索引
 https://www.xaprb.com/blog/2006/08/28/how-to-find-duplicate-and-redundant-indexes-in-mysql/
 https://www.xaprb.com/blog/2006/09/17/duplicate-index-checker-version-18-released/
 
-#如何使用SQL查找重复的行
+# 如何使用SQL查找重复的行
 https://www.xaprb.com/blog/2006/10/09/how-to-find-duplicate-rows-with-sql/
 
-#如何使用SQL删除重复的行
+# 如何使用SQL删除重复的行
 https://www.xaprb.com/blog/2006/10/11/how-to-delete-duplicate-rows-with-sql/
 
-#OAuth2.0手册, 扩展包league/oauth2-server, 以及在Laravel中的使用
+# OAuth2.0手册, 扩展包league/oauth2-server, 以及在Laravel中的使用
 https://oauth2.thephpleague.com/
 http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/
 
-#页面读取进度条插件
+# 页面读取进度条插件
 http://github.hubspot.com/pace/docs/welcome/
 
-#Mysql获得每个分组下前N条记录的方式
+# Mysql获得每个分组下前N条记录的方式
 http://www.databasejournal.com/features/mysql/selecting-the-top-n-results-by-group-in-mysql.html
 
-#快速排序详解
+# 快速排序详解
 http://www.mycstutorials.com/articles/sorting/quicksort
 
-#Laravel RBAC 
+# Laravel RBAC 
 http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html
 
-#推荐的Laravel权限分配最佳解决方案5.4版本
+# 推荐的Laravel权限分配最佳解决方案5.4版本
 https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission
 http://www.qcode.in/easy-roles-and-permissions-in-laravel-5-4/
 
-#js先压缩图片，然后用formdata和其它数据一起提交最佳实战
+# js先压缩图片，然后用formdata和其它数据一起提交最佳实战
 https://qiutc.me/post/uploading-image-file-in-mobile-fe.html
 
-#PHP和app端通信最佳的oauth2.0实践方式
+# PHP和app端通信最佳的oauth2.0实践方式
 https://bshaffer.github.io/oauth2-server-php-docs/
 
-#强烈建议去观看的Oauth介绍视频
+# 强烈建议去观看的Oauth介绍视频
 https://knpuniversity.com/screencast/oauth
 
-#Oauth2.0框架介绍
+# Oauth2.0框架介绍
 https://tools.ietf.org/html/rfc6749
 
-#Mysql层次化(嵌套)数据管理无限级分类架构实现剖析以及纯Sql实现方式
+# Mysql层次化(嵌套)数据管理无限级分类架构实现剖析以及纯Sql实现方式
 http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/
 
-#php+fine-uploader实现文件上传时的暂停和恢复上传的功能
+# php+fine-uploader实现文件上传时的暂停和恢复上传的功能
 http://phppot.com/php/pause-resume-file-upload-using-javascript/
 
-#不错的女程序员博客
+# 不错的女程序员博客
 http://phppot.com
 
-#laravel中的Repostory设计模式
+# laravel中的Repostory设计模式
 https://www.wedidknow.xyz/2017/03/repository-pattern-in-laravel.html
 
-#关于PHP异常处理的概述
+# 关于PHP异常处理的概述
 https://www.alainschlesser.com/structuring-php-exceptions
 
-#php怎么处理Mysql的大结果集
+# php怎么处理Mysql的大结果集
 https://www.percona.com/blog/2006/06/26/handling-of-big-parts-of-data/
 
-#常用的队列库大全
+# 常用的队列库大全
 http://queues.io
 
-#Laravel表单验证代码复用
+# Laravel表单验证代码复用
 https://laracasts.com/series/laravel-from-scratch-2017/episodes/28
 https://laravel.com/docs/5.4/validation#form-request-validation
 
-#nodejs高可用部署
+# nodejs高可用部署
 https://blog.box.com/blog/node-js-high-availability-at-box/
 
-#怎样使你本地的电脑能通过public ip访问
+# 怎样使你本地的电脑能通过public ip访问
 https://superuser.com/questions/526899/how-to-make-my-ip-publicly-accessible-to-make-my-local-tomcat-server-public/526900
 https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/
 
-#使用git hook去同步开发代码到生产环境
+# 使用git hook去同步开发代码到生产环境
 https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa
 https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
 
-#php开发api版本的控制以及注意细节
+# php开发api版本的控制以及注意细节
 http://blog.mugunthkumar.com/articles/restful-api-server-doing-it-the-right-way-part-1/
 
-#php项目部署到生产环境实战
+# php项目部署到生产环境实战
 https://www.sitepoint.com/deploying-php-applications-with-deployer/
 
-#详解Http缓存值Etag头
+# 详解Http缓存值Etag头
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching#invalidating_and_updating_cached_responses
 
-#css缓存战略
+# css缓存战略
 https://css-tricks.com/strategies-for-cache-busting-css/
 
-#phpunit在windows下的安装
+# phpunit在windows下的安装
 https://phpunit.de/manual/current/en/installation.html
 
-#详细描述jsonp
+# 详细描述jsonp
 https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-layman-terms
 https://www.html5rocks.com/en/tutorials/cors/
 https://beebole.com/blog/sandbox-your-cross-domain-jsonp-to-improve-mashup-security/  安全问题
 https://phocean.net/2013/10/13/csrf-with-jsonp.html
 https://www.metaltoad.com/blog/using-jsonp-safely
 
-#jsonp注入实战
+# jsonp注入实战
 https://securitycafe.ro/2017/01/18/practical-jsonp-injection/
 
-#使用laravel认证包
+# 使用laravel认证包
 http://esbenp.github.io/2017/03/19/modern-rest-api-laravel-part-4/
 
-#laravel中使用Repository和service构建灵活的应用
+# laravel中使用Repository和service构建灵活的应用
 http://dfg.gd/blog/decoupling-your-code-in-laravel-using-repositiories-and-services
 
-#深入阐述Laravel容器
+# 深入阐述Laravel容器
 https://davejamesmiller.com/2017/06/15/laravel-illuminate-container-in-depth
 
-#di容器官方文档
+# di容器官方文档
 http://php-di.org/doc/getting-started.html
 
-#使用DomDocument和DomXPath解析你的Html文件内容
+# 使用DomDocument和DomXPath解析你的Html文件内容
 http://www.the-art-of-web.com/php/html-xpath-query/
 
-#最佳日志实战
+# 最佳日志实战
 https://zhuanlan.zhihu.com/p/27363484
 
-#Laravel添加你自定义Helpers
+# Laravel添加你自定义Helpers
 http://slick.pl/kb/laravel/add-your-custom-helpers-in-laravel-5/
 
-#php trait vs Interface
+# php trait vs Interface
 https://stackoverflow.com/questions/9205083/traits-vs-interfaces
 
-#Laravel中@push和@stack指令的使用
+# Laravel中@push和@stack指令的使用
 https://laracasts.com/discuss/channels/general-discussion/blade-push-and-stack-are-they-here-to-stay
 
-#laravel日志存储方案和日志的解析
+# laravel日志存储方案和日志的解析
 http://www.darwinbiler.com/parsing-and-sending-laravel-logs-to-elasticsearch-using-logstash/
 https://blog.madewithlove.be/post/integrating-elasticsearch-with-your-laravel-app/
 https://stackoverflow.com/questions/35571056/elasticsearch-in-laravel-5-1
@@ -442,10 +442,10 @@ http://seregazhuk.github.io/2016/07/30/laravel-logging-to-db/
 https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-16-04
 https://www.slideshare.net/benwaine/application-logging-with-logstash
 
-#laravel中使用Mongodb存储log
+# laravel中使用Mongodb存储log
 http://motbit.com/su-dung-mongodb-de-luu-log-cho-laravel-5.html
 
-#同时使用多个数据库连接，在Laravel中
+# 同时使用多个数据库连接，在Laravel中
 https://laravel.io/forum/10-17-2016-how-to-use-multiple-database-connections-in-laravel-project
 https://dyrynda.com.au/blog/configuring-per-environment-logging-in-laravel-5
 https://github.com/laravel/framework/issues/19986
@@ -455,22 +455,22 @@ https://blog.muya.co.ke/configure-custom-logging-in-laravel-5/
 http://fideloper.com/laravel-multiple-database-connections
 http://laraveldaily.com/multiple-database-connections-in-the-same-laravel-project/
 
-#递归参数和变量的理解
+# 递归参数和变量的理解
 http://www.360doc.com/content/16/0530/22/6828497_563659833.shtml
 
-#laravel自定义异常避免render方法多个if和else
+# laravel自定义异常避免render方法多个if和else
 https://stackoverflow.com/questions/38562017/laravel-exceptions-handler/38629621#38629621
 https://laracasts.com/discuss/channels/code-review/best-way-to-handle-rest-api-errors-throwed-from-controller-or-exception
 
-#端口映射工具
+# 端口映射工具
 https://ngrok.com/
 https://laracasts.com/discuss/channels/tips/l5-exception-handlers
 
-#laravel根据客户端accept请求头自动返回不同类型的响应
+# laravel根据客户端accept请求头自动返回不同类型的响应
 https://stackoverflow.com/questions/34777411/laravel-resourceful-controller-differentiate-an-api-call-from-a-browser
 http://fideloper.com/laravel-content-negotiation
 
-#mongodb和elastic实时同步
+# mongodb和elastic实时同步
 https://blog.jixee.me/how-to-use-mongo-connector-with-elasticsearch/
 https://stackoverflow.com/questions/28843496/cant-initiate-replica-set-in-ubuntu
 https://www.linode.com/docs/databases/mongodb/create-a-mongodb-replica-set
@@ -480,62 +480,62 @@ https://dba.stackexchange.com/questions/180189/cant-run-rs-initiate-when-do-mong
 https://madhacker.me/use-mongodb-and-elasticsearch-2/
 https://severalnines.com/blog/become-mongodb-dba-basics-mongodb-configuration
 
-#Mysql唯一id生成方案和水平分表方案
+# Mysql唯一id生成方案和水平分表方案
 http://blog.csdn.net/z69183787/article/details/61918672
 
-#phpinfo显示libjpeg版本为unknow解决方案
+# phpinfo显示libjpeg版本为unknow解决方案
 http://dougaoyang.github.io/2014/10/22/php-jpg-issue.html
 
-#Laravel使用view composer
+# Laravel使用view composer
 https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers#toc-conclusion
 
-#larave中创建自定义规则以及传递参数和parameters参数的含义
+# larave中创建自定义规则以及传递参数和parameters参数的含义
 https://stackoverflow.com/questions/36118929/passing-variable-to-validator-laravel
 
-#Laravel添加自定义语言
+# Laravel添加自定义语言
 http://www.expertphp.in/article/creating-multilingual-website-using-localization-in-laravel-5-4
 
-#Laravel中Mass Assignment的介绍
+# Laravel中Mass Assignment的介绍
 https://stackoverflow.com/questions/22279435/what-does-mass-assignment-mean-in-laravel
 
-#laravel中使用添加自定义门面，以及Service Parttern
+# laravel中使用添加自定义门面，以及Service Parttern
 https://websanova.com/blog/laravel/global-data-in-laravel
 
-#laravel查看api帮助
+# laravel查看api帮助
 https://laravel.com/api/5.4/index.html
 
-#4种非常有用的redis类型
+# 4种非常有用的redis类型
 https://scaleyourcode.com/blog/article/14
 
-#yii2运行时执行自定义代码方法实现bootstrapinterface
+# yii2运行时执行自定义代码方法实现bootstrapinterface
 http://www.yiiframework.com/wiki/652/how-to-use-bootstrapinterface/
 https://stackoverflow.com/questions/27778477/how-to-make-custom-settings-data-available-globally-in-yii-2
 
-#laravel中@yield、@section和@show的区别，以及
+# laravel中@yield、@section和@show的区别，以及
 https://laravel.io/forum/06-20-2014-yield-vs-section-show
 
-#七牛云在laravel中的简单使用
+# 七牛云在laravel中的简单使用
 http://www.cnblogs.com/pengzhendong/p/4855076.html
 
-#laravel事件驱动说明以及思考
+# laravel事件驱动说明以及思考
 https://blog.pusher.com/event-driven-laravel-applications/
 
-#yii2中standalone action的使用
+# yii2中standalone action的使用
 https://www.tutorialspoint.com/yii/yii_using_actions.htm
 
-#有几篇laravel的好博文的站点
+# 有几篇laravel的好博文的站点
 http://oomusou.io/
 
-#laravel分层架构
+# laravel分层架构
 https://stackoverflow.com/questions/22566572/what-are-the-practices-for-working-from-a-fat-model-skinny-controller-perspec
 
-#无状态化应用设计及原理
+# 无状态化应用设计及原理
 https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using-jwts/
 
-yii2中切换语言的解决方案，可以参考此篇博文以及使用cookie和session
+# yii2中切换语言的解决方案，可以参考此篇博文以及使用cookie和session
 https://stackoverflow.com/questions/27180059/execute-my-code-before-any-action-of-any-controller/28975463
 
-#nginx1.10版本无法加载upload_progress的问题
+# nginx1.10版本无法加载upload_progress的问题
 https://github.com/masterzen/nginx-upload-progress-module/issues/47
 https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
 

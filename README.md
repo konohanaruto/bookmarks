@@ -545,4 +545,4 @@ https://discuss.pivotal.io/hc/en-us/articles/206087627-How-to-setup-and-run-mult
 # Elasticsearch中，关于文档部分执行插入type和document时的PUT命令时的错误解决方案
 https://www.elastic.co/guide/en/elasticsearch/reference/5.5/_index_and_query_a_document.html
 https://discuss.elastic.co/t/index-a-new-document/35281/8
-需要转义curl -XPUT localhost:9200/customer/external/1 -d "{ \"name\": \"John Doe\"}"
+需要转义curl -XPUT localhost:9200/customer/external/1 -d "{ \"name\": \"John Doe\"}"  (windos下， linux亲测不用转义，而且外层是单引号即可)

@@ -541,3 +541,8 @@ https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
 
 # redis多实例的部署步骤
 https://discuss.pivotal.io/hc/en-us/articles/206087627-How-to-setup-and-run-multiple-Redis-server-instances-on-a-Linux-host
+
+# Elasticsearch中，关于文档部分执行插入type和document时的PUT命令时的错误解决方案
+https://www.elastic.co/guide/en/elasticsearch/reference/5.5/_index_and_query_a_document.html
+https://discuss.elastic.co/t/index-a-new-document/35281/8
+需要转义curl -XPUT localhost:9200/customer/external/1 -d "{ \"name\": \"John Doe\"}"

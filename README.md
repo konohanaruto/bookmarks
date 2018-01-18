@@ -546,3 +546,6 @@ https://discuss.pivotal.io/hc/en-us/articles/206087627-How-to-setup-and-run-mult
 https://www.elastic.co/guide/en/elasticsearch/reference/5.5/_index_and_query_a_document.html
 https://discuss.elastic.co/t/index-a-new-document/35281/8
 需要转义curl -XPUT localhost:9200/customer/external/1 -d "{ \"name\": \"John Doe\"}"  (windos下， linux亲测不用转义，而且外层是单引号即可)
+
+# 使用logstash复制mysql数据到elasticsearch
+https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash

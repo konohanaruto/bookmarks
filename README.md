@@ -549,3 +549,8 @@ https://discuss.elastic.co/t/index-a-new-document/35281/8
 
 # 使用logstash复制mysql数据到elasticsearch
 https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash
+
+# 学习shell脚本的比较好的网站
+http://tldp.org/LDP/abs/html/
+https://linuxconfig.org/bash-scripting-tutorial#h19-bash-arithmetics
+https://ryanstutorials.net/bash-scripting-tutorial/bash-user-interface.php

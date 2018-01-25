@@ -554,3 +554,6 @@ https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash
 http://tldp.org/LDP/abs/html/
 https://linuxconfig.org/bash-scripting-tutorial#h19-bash-arithmetics
 https://ryanstutorials.net/bash-scripting-tutorial/bash-user-interface.php
+
+# javascript实现上传进度条，通过xhr对象
+https://zinoui.com/blog/ajax-request-progress-bar

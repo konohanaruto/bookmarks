@@ -556,6 +556,6 @@ https://linuxconfig.org/bash-scripting-tutorial#h19-bash-arithmetics
 https://ryanstutorials.net/bash-scripting-tutorial/bash-user-interface.php  
 
 # javascript实现上传进度条，通过xhr对象
-https://zinoui.com/blog/ajax-request-progress-bar
-更优版本
+https://zinoui.com/blog/ajax-request-progress-bar  
+更优版本  
 https://www.linkedin.com/pulse/upload-multiple-files-html-5-javascript-progress-bar-cancel-hewage

@@ -1,39 +1,39 @@
-#Laravel之Ioc容器
+# Laravel之Ioc容器
 https://www.sitepoint.com/dependency-injection-laravels-ioc/
 
 http://www.efrag.gr/2012/12/php-self-vs-static/
 
 http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html
 
-#laravel5中队列的使用
+# laravel5中队列的使用
 http://www.muhammad-irfan.me/2015/12/27/laravel-5-how-to-setup-queue-with-redis/
 
-#nginx+varnish服务器
+# nginx+varnish服务器
 http://www.tuicool.com/articles/j6jMFrf
 
-#Linux比较好的一个文章站
+# Linux比较好的一个文章站
 https://linuxconfig.org
 
-#PHP高并发下防止超卖等的处理方式
+# PHP高并发下防止超卖等的处理方式
 http://www.codeday.top/2017/01/02/11952.html
 
-#关于Laravel队列学习
+# 关于Laravel队列学习
 https://yq.aliyun.com/ziliao/23919
 https://blog.tanteng.me/2016/07/laravel-5-queue/
 http://www.cnblogs.com/zengxiangzhan/archive/2012/12/07/2807141.html
 
-#Nginx优化
+# Nginx优化
 https://seravo.fi/2013/optimizing-web-server-performance-with-nginx-and-php
 
 
-#PHP对象赋值和引用
+# PHP对象赋值和引用
 http://stackoverflow.com/questions/8962096/copy-of-object-identifier-and-reference-of-object-identifier-which-one-should
 http://code.stephenmorley.org/php/references-tutorial/
 
-#使用pusher广播
+# 使用pusher广播
 https://pusher-community.github.io/real-time-laravel/getting-started/event-broadcaster.html
 
-#Laravel+redis做一个通知系统
+# Laravel+redis做一个通知系统
 https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51
 http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-io/
 https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
@@ -41,148 +41,148 @@ http://hsu.logdown.com/posts/2017/01/17/laravel-with-redis-and-socketio
 http://udn.yyuap.com/thread-131487-1-1.html
 https://danholloran.me/2016/01/30/laravel-and-websockets/
 
-#socketio在线聊天室
+# socketio在线聊天室
 http://blog.shanamaid.top/2017/02/14/200%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0web%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4/
 
-#socketio发送消息到指定客户端的推荐方式是创建一个单独的房间
+# socketio发送消息到指定客户端的推荐方式是创建一个单独的房间
 http://stackoverflow.com/questions/35680565/sending-message-to-specific-client-in-socket-io
 
-#搭建一个重置图片大小的缓存服务器
+# 搭建一个重置图片大小的缓存服务器
 http://sumitbirla.com/2011/11/how-to-build-a-scalable-caching-resizing-image-server/
 
-#优化图片缓存，提升web服务器性能
+# 优化图片缓存，提升web服务器性能
 https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/
 
-#session写入redis-php
+# session写入redis-php
 https://www.digitalocean.com/community/tutorials/how-to-set-up-a-redis-server-as-a-session-handler-for-php-on-ubuntu-14-04
 
-#mysql中explain
+# mysql中explain
 https://www.sitepoint.com/using-explain-to-write-better-mysql-queries/
 
-#理解和使用Laravel中间件
+# 理解和使用Laravel中间件
 https://scotch.io/tutorials/understanding-laravel-middleware
 
-#理解laravel的请求周期
+# 理解laravel的请求周期
 http://laravel-recipes.com/recipes/52/understanding-the-request-lifecycle
 
-#laravel门面模式的深入理解
+# laravel门面模式的深入理解
 https://www.sitepoint.com/how-laravel-facades-work-and-how-to-use-them-elsewhere/
 
-#laravel中Request和Input的说明
+# laravel中Request和Input的说明
 http://kodeinfo.com/post/requests-inputs-in-laravel
 
-#比较好的一个Linux命令大全手册
+# 比较好的一个Linux命令大全手册
 http://linuxtools-rst.readthedocs.io/zh_CN/latest/base/02_file_manage.html
 
-#PHP大规模Web应用程序架构设计
+# PHP大规模Web应用程序架构设计
 http://softwareengineering.stackexchange.com/questions/132275/php-web-application-architecture-design
 
-#动态裁切图片php+jquery插件
+# 动态裁切图片php+jquery插件
 http://blog.teamtreehouse.com/dynamic-jquery-image-avatar-cropping-effect
 
-#web网站图片优化
+# web网站图片优化
 http://cloudinary.com/blog/top_10_mistakes_in_handling_website_images_and_how_to_solve_them
 
-#sed命令的详细使用
+# sed命令的详细使用
 https://www.gnu.org/software/sed/manual/sed.html
 
-#windows下wamp安装imagick扩展的正确方式，资源pcre包
+# windows下wamp安装imagick扩展的正确方式，资源pcre包
 https://refreshless.com/blog/imagick-pecl-imagemagick-windows/
 
-#mysql查询每个分类前几名信息的多种解决方案
+# mysql查询每个分类前几名信息的多种解决方案
 http://www.sql-ex.com/help/select16.php
 
-#mysql的B+tree详细解析
+# mysql的B+tree详细解析
 http://blog.codinglabs.org/articles/theory-of-mysql-index.html
 
-#Linux集群架构方案
+# Linux集群架构方案
 https://www.centos.bz/
 
-#Mysql优秀博主
+# Mysql优秀博主
 http://blog.itpub.net/22664653/cid-84487-list-2/
 
-#防止Xss攻击
+# 防止Xss攻击
 https://www.sitepoint.com/php-security-cross-site-scripting-attacks-xss/
 
-#关于Mysql中的死锁
+# 关于Mysql中的死锁
 https://dev.mysql.com/doc/refman/5.7/en/innodb-deadlocks.html
 
-#关于vim尾行模式下的替换命令
+# 关于vim尾行模式下的替换命令
 http://vim.wikia.com/wiki/Search_and_replace
 
-#nodejs中redis的使用
+# nodejs中redis的使用
 https://www.sitepoint.com/using-redis-node-js/
 
-#nginx中location的各种配置和操作符的使用~、~*、= 等等符号
+# nginx中location的各种配置和操作符的使用~、~*、= 等等符号
 https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx_local_pcre.html
 http://seanlook.com/2015/05/17/nginx-location-rewrite/
 
-#js验证null、empty、undefind等
+# js验证null、empty、undefind等
 http://stackoverflow.com/questions/5515310/is-there-a-standard-function-to-check-for-null-undefined-or-blank-variables-in
 
-#ph7cms安装报错，以及推荐的环境
+# ph7cms安装报错，以及推荐的环境
 https://github.com/pH7Software/pH7-Social-Dating-CMS/issues/95
 
-#牛人对待socket.io的一点看法
+# 牛人对待socket.io的一点看法
 https://medium.com/@ivanderbyl/why-you-don-t-need-socket-io-6848f1c871cd#.dj6211dp6
 
-#ftp服务器的构建及配置详细说明
+# ftp服务器的构建及配置详细说明
 http://www.computernetworkingnotes.com/network-administration/how-to-configure-ftp-server-in-rhel6.html
 
-#nginx配置
+# nginx配置
 https://www.digitalocean.com/community/tutorials/how-to-compile-nginx-from-source-on-a-centos-6-4-x64-vps
 
-#nginx服务静态内容
+# nginx服务静态内容
 http://www.ehowstuff.com/static-website-configuration-for-nginx/
 https://www.nginx.com/resources/admin-guide/serving-static-content/
 
-#关于Innodb共享表空间ibdata1的问题，以及启用和不启用的问题
+# 关于Innodb共享表空间ibdata1的问题，以及启用和不启用的问题
 http://dba.stackexchange.com/questions/15531/why-does-innodb-store-all-databases-in-one-file
 http://stackoverflow.com/questions/3927690/howto-clean-a-mysql-innodb-storage-engine/4056261#4056261
 
-#怎样使用Mysql索引，使用技巧
+# 怎样使用Mysql索引，使用技巧
 https://www.kancloud.cn/thinkphp/mysql-design-optimalize/39319
 
-#上传文件的暂停和恢复上传
+# 上传文件的暂停和恢复上传
 https://hacks.mozilla.org/2011/04/resumeupload/
 https://blogs.sap.com/2014/05/19/supporting-resumable-file-uploads-using-html5/
 
-#正则表达式30分钟入门
+# 正则表达式30分钟入门
 http://deerchao.net/tutorials/regex/regex-1.htm
 
-#Laravel中使用验证码
+# Laravel中使用验证码
 http://tutsnare.com/how-to-use-captcha-in-laravel-5/
 
-#Laravel中布局的使用以及css等静态文件的分配
+# Laravel中布局的使用以及css等静态文件的分配
 https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-blade-layout-to-standardize-your-pages-appearance/
 http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/
 https://scotch.io/tutorials/simple-laravel-layouts-using-blade
 
-#ajax上传图片demo，不过按照标准的话最好加上一个enctype="multipart/form-data"属性
+# ajax上传图片demo，不过按照标准的话最好加上一个enctype="multipart/form-data"属性
 http://phppot.com/php/php-ajax-image-upload/
 
-#linux搭建samba服务器实战, 最后配置文件需改为读写选项，须后期个人博客更新
+# linux搭建samba服务器实战, 最后配置文件需改为读写选项，须后期个人博客更新
 http://www.tomsitpro.com/articles/linux-server-configuration-guide-book-excerpt,2-777-2.html
 
-#开源程序使用laravel
+# 开源程序使用laravel
 https://openlaravel.com/?page=2
 
-#laravel表单验证
+# laravel表单验证
 https://scotch.io/tutorials/laravel-form-validation
 
-#laravel比较好的学习站点
+# laravel比较好的学习站点
 http://www.w3laravel.com/
 
-#PHP类似多继承实现代码复用之trait文档
+# PHP类似多继承实现代码复用之trait文档
 http://php.net/manual/en/language.oop5.traits.php
 
-#laravel现代restapi架构及目录规划
+# laravel现代restapi架构及目录规划
 http://esbenp.github.io/2016/04/11/modern-rest-api-laravel-part-1/
 
-#laravel加载自定义类
+# laravel加载自定义类
 https://arjunphp.com/load-custom-class-laravel-5/
 
-#laravel service provider
+# laravel service provider
 http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-repositories/
 http://culttt.com/tag/cribbb/
 http://culttt.com/2015/09/14/managing-context-in-a-laravel-application/
@@ -194,74 +194,74 @@ http://culttt.com/2014/03/17/eloquent-tricks-better-repositories
 http://culttt.com/search/?q=laravel
 
 
-#api安全之token验证，各种实现方式的流程及优劣
+# api安全之token验证，各种实现方式的流程及优劣
 https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/
 
-#手把手实现token验证
+# 手把手实现token验证
 https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
 https://stormpath.com/blog/token-management-in-php
 http://phpclicks.com/php-token-based-authentication/
 https://gistlog.co/JacobBennett/090369fbab0b31130b51
 
-#表单验证插件jquery-validation
+# 表单验证插件jquery-validation
 http://www.cnblogs.com/xiaoqian1993/p/5822604.html
 
-#laravel repository模式
+# laravel repository模式
 https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/
 http://stackoverflow.com/questions/40693269/where-to-add-own-repository-class-and-interfaces-in-laravel
 https://www.reddit.com/r/laravel/comments/2bfyik/what_are_file_structure_best_practices_for/
 http://blog.leapoahead.com/2015/09/06/understanding-jwt/
 
-#PHP中防止SQL注入方案
+# PHP中防止SQL注入方案
 http://www.wikihow.com/Prevent-SQL-Injection-in-PHP
 http://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
 
-#ajax重试方案最佳实践JQuery方案
+# ajax重试方案最佳实践JQuery方案
 http://stackoverflow.com/questions/10024469/whats-the-best-way-to-retry-an-ajax-request-on-failure-using-jquery
 
-#laravel路由和路由组说明
+# laravel路由和路由组说明
 https://scotch.io/tutorials/understanding-laravel-middleware
 
-#laravel中service provider的使用
+# laravel中service provider的使用
 https://laraveltips.wordpress.com/2015/06/11/how-to-create-a-service-provider-in-laravel-5-1/
 
-#Laravel中使用自定义的用户认证服务Authentication
+# Laravel中使用自定义的用户认证服务Authentication
 https://jamesmcfadden.co.uk/custom-authentication-in-laravel-with-guards-and-user-service-providers
 
-#laravel中使用migration报错键长度变长的解决方案
+# laravel中使用migration报错键长度变长的解决方案
 https://laravel-news.com/laravel-5-4-key-too-long-error
 
-#laravel中手把手实践用户认证系列
+# laravel中手把手实践用户认证系列
 http://www.expertphp.in/article/simple-and-easy-laravel-52-login-and-register-using-the-auth-scaffold
 
-#创建多角色基于PHP+Mysql详细教程
+# 创建多角色基于PHP+Mysql详细教程
 https://www.thesoftwareguy.in/creating-multi-user-role-based-admin-using-php-mysql-bootstrap/
 
-#构建最好的登录系统(包含角色和权限)
+# 构建最好的登录系统(包含角色和权限)
 https://code.tutsplus.com/tutorials/a-better-login-system--net-3461
 
-#Joomla权限系统架构详解
+# Joomla权限系统架构详解
 https://docs.joomla.org/J3.x:Access_Control_List_Tutorial
 
-#RBAC权限系统实战
+# RBAC权限系统实战
 https://www.sitepoint.com/role-based-access-control-in-php/
 
-#带Menu菜单的最佳RBAC系统构建, 真乃大牛也。。。。
+# 带Menu菜单的最佳RBAC系统构建, 真乃大牛也。。。。
 http://www.tonymarston.net/php-mysql/role-based-access-control.html
 
-#Application访问控制
+# Application访问控制
 http://stackoverflow.com/questions/3430181/how-can-i-implement-an-access-control-list-in-my-web-mvc-application
 
-#关于ACL(Access Control List)的轻量级类 Phalcon\Acl 的使用
+# 关于ACL(Access Control List)的轻量级类 Phalcon\Acl 的使用
 https://docs.phalconphp.com/en/3.0.0/reference/acl.html
 
-#Laravel使用ACL中间件用法
+# Laravel使用ACL中间件用法
 https://heera.it/laravel-5-1-x-acl-middleware
 
-#HTML5图片上传，包含多图上传等实战
+# HTML5图片上传，包含多图上传等实战
 https://developer.mozilla.org/en/docs/Using_files_from_web_applications
 
-#构建安全的登录系统，利用salt机制并非存储MD5密码
+# 构建安全的登录系统，利用salt机制并非存储MD5密码
 http://forums.devshed.com/php-faqs-stickies-167/program-basic-secure-login-system-using-php-mysql-891201.html
 
 #关于PHP和IOS安卓等之间API接口安全认证非常好的博文
@@ -273,29 +273,29 @@ https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
 https://stormpath.com/blog/build-api-restify-stormpath
 https://stormpath.com/blog/secure-your-rest-api-right-way
 
-#Open Authorization 2.0的介绍
+# Open Authorization 2.0的介绍
 http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
 http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
 https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
 https://connect2id.com/learn/oauth-2
 
-#插入前判断数据不重复高性能Mysql插入
+# 插入前判断数据不重复高性能Mysql插入
 http://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql
 
-#clustered index Mysql中聚簇索引和二级索引在不同存储引擎的不同点以及工作原理
+# clustered index Mysql中聚簇索引和二级索引在不同存储引擎的不同点以及工作原理
 https://www.xaprb.com/blog/2006/07/04/how-to-exploit-mysql-index-optimizations/
 小插曲，此大神乃高性能Mysql作者之一，其博客地址:https://www.xaprb.com/blog
 
-#为什么InnoDB为每个外键创建两个索引
+# 为什么InnoDB为每个外键创建两个索引
 https://www.xaprb.com/blog/2006/07/27/why-does-innodb-create-two-indexes-per-foreign-key/
 
-#如何找出谁在MySQL中锁定表
+# 如何找出谁在MySQL中锁定表
 https://www.xaprb.com/blog/2006/07/31/how-to-analyze-innodb-mysql-locks/
 
-#怎样在innodb中避免死锁
+# 怎样在innodb中避免死锁
 https://www.xaprb.com/blog/2006/08/03/a-little-known-way-to-cause-a-database-deadlock/
 
-#怎样在Mysql中故意制造死锁
+# 怎样在Mysql中故意制造死锁
 https://www.xaprb.com/blog/2006/08/08/how-to-deliberately-cause-a-deadlock-in-mysql/
 
 # 如何在SQL中构建基于角色的访问控制

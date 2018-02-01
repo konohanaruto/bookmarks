@@ -27,19 +27,19 @@ https://seravo.fi/2013/optimizing-web-server-performance-with-nginx-and-php
 
 
 # PHP对象赋值和引用
-http://stackoverflow.com/questions/8962096/copy-of-object-identifier-and-reference-of-object-identifier-which-one-should
+http://stackoverflow.com/questions/8962096/copy-of-object-identifier-and-reference-of-object-identifier-which-one-should  
 http://code.stephenmorley.org/php/references-tutorial/
 
 # 使用pusher广播
 https://pusher-community.github.io/real-time-laravel/getting-started/event-broadcaster.html
 
 # Laravel+redis做一个通知系统
-https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51
-http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-io/
-https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/
-http://hsu.logdown.com/posts/2017/01/17/laravel-with-redis-and-socketio
-http://udn.yyuap.com/thread-131487-1-1.html
-https://danholloran.me/2016/01/30/laravel-and-websockets/
+https://laracasts.com/discuss/channels/general-discussion/step-by-step-guide-to-installing-socketio-and-broadcasting-events-with-laravel-51  
+http://blog.nedex.io/laravel-5-1-broadcasting-events-using-redis-driver-socket-io/  
+https://www.sitepoint.com/real-time-apps-laravel-5-1-event-broadcasting/  
+http://hsu.logdown.com/posts/2017/01/17/laravel-with-redis-and-socketio  
+http://udn.yyuap.com/thread-131487-1-1.html  
+https://danholloran.me/2016/01/30/laravel-and-websockets/  
 
 # socketio在线聊天室
 http://blog.shanamaid.top/2017/02/14/200%E8%A1%8C%E4%BB%A3%E7%A0%81%E5%AE%9E%E7%8E%B0web%E5%9C%A8%E7%BA%BF%E8%81%8A%E5%A4%A9%E5%AE%A4/
@@ -114,7 +114,7 @@ http://vim.wikia.com/wiki/Search_and_replace
 https://www.sitepoint.com/using-redis-node-js/
 
 # nginx中location的各种配置和操作符的使用~、~*、= 等等符号
-https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx_local_pcre.html
+https://moonbingbing.gitbooks.io/openresty-best-practices/ngx/nginx_local_pcre.html  
 http://seanlook.com/2015/05/17/nginx-location-rewrite/
 
 # js验证null、empty、undefind等
@@ -133,11 +133,11 @@ http://www.computernetworkingnotes.com/network-administration/how-to-configure-f
 https://www.digitalocean.com/community/tutorials/how-to-compile-nginx-from-source-on-a-centos-6-4-x64-vps
 
 # nginx服务静态内容
-http://www.ehowstuff.com/static-website-configuration-for-nginx/
-https://www.nginx.com/resources/admin-guide/serving-static-content/
+http://www.ehowstuff.com/static-website-configuration-for-nginx/  
+https://www.nginx.com/resources/admin-guide/serving-static-content/  
 
 # 关于Innodb共享表空间ibdata1的问题，以及启用和不启用的问题
-http://dba.stackexchange.com/questions/15531/why-does-innodb-store-all-databases-in-one-file
+http://dba.stackexchange.com/questions/15531/why-does-innodb-store-all-databases-in-one-file  
 http://stackoverflow.com/questions/3927690/howto-clean-a-mysql-innodb-storage-engine/4056261#4056261
 
 # 怎样使用Mysql索引，使用技巧
@@ -154,9 +154,9 @@ http://deerchao.net/tutorials/regex/regex-1.htm
 http://tutsnare.com/how-to-use-captcha-in-laravel-5/
 
 # Laravel中布局的使用以及css等静态文件的分配
-https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-blade-layout-to-standardize-your-pages-appearance/
-http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/
-https://scotch.io/tutorials/simple-laravel-layouts-using-blade
+https://selftaughtcoders.com/from-idea-to-launch/lesson-20/creating-a-laravel-5-blade-layout-to-standardize-your-pages-appearance/  
+http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/  
+https://scotch.io/tutorials/simple-laravel-layouts-using-blade  
 
 # ajax上传图片demo，不过按照标准的话最好加上一个enctype="multipart/form-data"属性
 http://phppot.com/php/php-ajax-image-upload/
@@ -183,38 +183,38 @@ http://esbenp.github.io/2016/04/11/modern-rest-api-laravel-part-1/
 https://arjunphp.com/load-custom-class-laravel-5/
 
 # laravel service provider
-http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-repositories/
-http://culttt.com/tag/cribbb/
-http://culttt.com/2015/09/14/managing-context-in-a-laravel-application/
-http://culttt.com/2015/08/10/dealing-with-exceptions-in-a-laravel-api-application/
-http://culttt.com/tag/laravel/page/2/
-http://culttt.com/2014/03/17/eloquent-tricks-better-repositories
-http://culttt.com/2014/03/17/eloquent-tricks-better-repositories
-...
-http://culttt.com/search/?q=laravel
+http://culttt.com/2013/07/08/creating-flexible-controllers-in-laravel-4-using-repositories/  
+http://culttt.com/tag/cribbb/  
+http://culttt.com/2015/09/14/managing-context-in-a-laravel-application/  
+http://culttt.com/2015/08/10/dealing-with-exceptions-in-a-laravel-api-application/  
+http://culttt.com/tag/laravel/page/2/  
+http://culttt.com/2014/03/17/eloquent-tricks-better-repositories  
+http://culttt.com/2014/03/17/eloquent-tricks-better-repositories  
+...  
+http://culttt.com/search/?q=laravel  
 
 
 # api安全之token验证，各种实现方式的流程及优劣
 https://blogs.mulesoft.com/dev/api-dev/api-security-ways-to-authenticate-and-authorize/
 
 # 手把手实现token验证
-https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
-https://stormpath.com/blog/token-management-in-php
-http://phpclicks.com/php-token-based-authentication/
-https://gistlog.co/JacobBennett/090369fbab0b31130b51
+https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/  
+https://stormpath.com/blog/token-management-in-php  
+http://phpclicks.com/php-token-based-authentication/  
+https://gistlog.co/JacobBennett/090369fbab0b31130b51  
 
 # 表单验证插件jquery-validation
 http://www.cnblogs.com/xiaoqian1993/p/5822604.html
 
 # laravel repository模式
-https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/
-http://stackoverflow.com/questions/40693269/where-to-add-own-repository-class-and-interfaces-in-laravel
-https://www.reddit.com/r/laravel/comments/2bfyik/what_are_file_structure_best_practices_for/
-http://blog.leapoahead.com/2015/09/06/understanding-jwt/
+https://bosnadev.com/2015/03/07/using-repository-pattern-in-laravel-5/  
+http://stackoverflow.com/questions/40693269/where-to-add-own-repository-class-and-interfaces-in-laravel  
+https://www.reddit.com/r/laravel/comments/2bfyik/what_are_file_structure_best_practices_for/  
+http://blog.leapoahead.com/2015/09/06/understanding-jwt/  
 
 # PHP中防止SQL注入方案
-http://www.wikihow.com/Prevent-SQL-Injection-in-PHP
-http://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php
+http://www.wikihow.com/Prevent-SQL-Injection-in-PHP  
+http://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php  
 
 # ajax重试方案最佳实践JQuery方案
 http://stackoverflow.com/questions/10024469/whats-the-best-way-to-retry-an-ajax-request-on-failure-using-jquery
@@ -265,25 +265,25 @@ https://developer.mozilla.org/en/docs/Using_files_from_web_applications
 http://forums.devshed.com/php-faqs-stickies-167/program-basic-secure-login-system-using-php-mysql-891201.html
 
 #关于PHP和IOS安卓等之间API接口安全认证非常好的博文
-https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security
-https://stormpath.com/blog/manage-authentication-lifecycle-mobile
-https://stormpath.com/blog/build-user-authentication-for-android-app
-https://stormpath.com/blog/token-management-in-php
-https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/
-https://stormpath.com/blog/build-api-restify-stormpath
-https://stormpath.com/blog/secure-your-rest-api-right-way
+https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security  
+https://stormpath.com/blog/manage-authentication-lifecycle-mobile  
+https://stormpath.com/blog/build-user-authentication-for-android-app  
+https://stormpath.com/blog/token-management-in-php  
+https://www.sitepoint.com/php-authorization-jwt-json-web-tokens/  
+https://stormpath.com/blog/build-api-restify-stormpath  
+https://stormpath.com/blog/secure-your-rest-api-right-way  
 
 # Open Authorization 2.0的介绍
-http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html
-http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/
-https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html  
+http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/  
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2  
 https://connect2id.com/learn/oauth-2
 
 # 插入前判断数据不重复高性能Mysql插入
 http://stackoverflow.com/questions/1361340/how-to-insert-if-not-exists-in-mysql
 
 # clustered index Mysql中聚簇索引和二级索引在不同存储引擎的不同点以及工作原理
-https://www.xaprb.com/blog/2006/07/04/how-to-exploit-mysql-index-optimizations/
+https://www.xaprb.com/blog/2006/07/04/how-to-exploit-mysql-index-optimizations/  
 小插曲，此大神乃高性能Mysql作者之一，其博客地址:https://www.xaprb.com/blog
 
 # 为什么InnoDB为每个外键创建两个索引
@@ -305,7 +305,7 @@ https://www.xaprb.com/blog/2006/08/16/how-to-build-role-based-access-control-in-
 https://www.xaprb.com/blog/2006/08/18/role-based-access-control-in-sql-part-2/
 
 # 如何在MySQL中找到重复和冗余的索引
-https://www.xaprb.com/blog/2006/08/28/how-to-find-duplicate-and-redundant-indexes-in-mysql/
+https://www.xaprb.com/blog/2006/08/28/how-to-find-duplicate-and-redundant-indexes-in-mysql/  
 https://www.xaprb.com/blog/2006/09/17/duplicate-index-checker-version-18-released/
 
 # 如何使用SQL查找重复的行
@@ -315,7 +315,7 @@ https://www.xaprb.com/blog/2006/10/09/how-to-find-duplicate-rows-with-sql/
 https://www.xaprb.com/blog/2006/10/11/how-to-delete-duplicate-rows-with-sql/
 
 # OAuth2.0手册, 扩展包league/oauth2-server, 以及在Laravel中的使用
-https://oauth2.thephpleague.com/
+https://oauth2.thephpleague.com/  
 http://culttt.com/2015/08/17/adding-oauth-to-a-laravel-api/
 
 # 页面读取进度条插件
@@ -331,7 +331,7 @@ http://www.mycstutorials.com/articles/sorting/quicksort
 http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html
 
 # 推荐的Laravel权限分配最佳解决方案5.4版本
-https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission
+https://scotch.io/tutorials/user-authorization-in-laravel-54-with-spatie-laravel-permission  
 http://www.qcode.in/easy-roles-and-permissions-in-laravel-5-4/
 
 # js先压缩图片，然后用formdata和其它数据一起提交最佳实战
@@ -368,18 +368,18 @@ https://www.percona.com/blog/2006/06/26/handling-of-big-parts-of-data/
 http://queues.io
 
 # Laravel表单验证代码复用
-https://laracasts.com/series/laravel-from-scratch-2017/episodes/28
+https://laracasts.com/series/laravel-from-scratch-2017/episodes/28  
 https://laravel.com/docs/5.4/validation#form-request-validation
 
 # nodejs高可用部署
 https://blog.box.com/blog/node-js-high-availability-at-box/
 
 # 怎样使你本地的电脑能通过public ip访问
-https://superuser.com/questions/526899/how-to-make-my-ip-publicly-accessible-to-make-my-local-tomcat-server-public/526900
+https://superuser.com/questions/526899/how-to-make-my-ip-publicly-accessible-to-make-my-local-tomcat-server-public/526900  
 https://www.howtogeek.com/66214/how-to-forward-ports-on-your-router/
 
 # 使用git hook去同步开发代码到生产环境
-https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa
+https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa  
 https://www.digitalocean.com/community/tutorials/how-to-use-git-hooks-to-automate-development-and-deployment-tasks
 
 # php开发api版本的控制以及注意细节
@@ -398,11 +398,11 @@ https://css-tricks.com/strategies-for-cache-busting-css/
 https://phpunit.de/manual/current/en/installation.html
 
 # 详细描述jsonp
-https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-layman-terms
-https://www.html5rocks.com/en/tutorials/cors/
-https://beebole.com/blog/sandbox-your-cross-domain-jsonp-to-improve-mashup-security/  安全问题
-https://phocean.net/2013/10/13/csrf-with-jsonp.html
-https://www.metaltoad.com/blog/using-jsonp-safely
+https://stackoverflow.com/questions/3839966/can-anyone-explain-what-jsonp-is-in-layman-terms  
+https://www.html5rocks.com/en/tutorials/cors/  
+https://beebole.com/blog/sandbox-your-cross-domain-jsonp-to-improve-mashup-security/  安全问题  
+https://phocean.net/2013/10/13/csrf-with-jsonp.html  
+https://www.metaltoad.com/blog/using-jsonp-safely  
 
 # jsonp注入实战
 https://securitycafe.ro/2017/01/18/practical-jsonp-injection/
@@ -435,50 +435,50 @@ https://stackoverflow.com/questions/9205083/traits-vs-interfaces
 https://laracasts.com/discuss/channels/general-discussion/blade-push-and-stack-are-they-here-to-stay
 
 # laravel日志存储方案和日志的解析
-http://www.darwinbiler.com/parsing-and-sending-laravel-logs-to-elasticsearch-using-logstash/
-https://blog.madewithlove.be/post/integrating-elasticsearch-with-your-laravel-app/
-https://stackoverflow.com/questions/35571056/elasticsearch-in-laravel-5-1
-http://seregazhuk.github.io/2016/07/30/laravel-logging-to-db/
-https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-16-04
-https://www.slideshare.net/benwaine/application-logging-with-logstash
+http://www.darwinbiler.com/parsing-and-sending-laravel-logs-to-elasticsearch-using-logstash/  
+https://blog.madewithlove.be/post/integrating-elasticsearch-with-your-laravel-app/  
+https://stackoverflow.com/questions/35571056/elasticsearch-in-laravel-5-1  
+http://seregazhuk.github.io/2016/07/30/laravel-logging-to-db/  
+https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-ubuntu-16-04  
+https://www.slideshare.net/benwaine/application-logging-with-logstash  
 
 # laravel中使用Mongodb存储log
 http://motbit.com/su-dung-mongodb-de-luu-log-cho-laravel-5.html
 
 # 同时使用多个数据库连接，在Laravel中
-https://laravel.io/forum/10-17-2016-how-to-use-multiple-database-connections-in-laravel-project
-https://dyrynda.com.au/blog/configuring-per-environment-logging-in-laravel-5
-https://github.com/laravel/framework/issues/19986
-https://stackoverflow.com/questions/39494218/unable-to-access-env-variables-in-app-bootstrap
-https://stackoverflow.com/questions/43657419/how-to-extend-laravel-logger
-https://blog.muya.co.ke/configure-custom-logging-in-laravel-5/
-http://fideloper.com/laravel-multiple-database-connections
-http://laraveldaily.com/multiple-database-connections-in-the-same-laravel-project/
+https://laravel.io/forum/10-17-2016-how-to-use-multiple-database-connections-in-laravel-project  
+https://dyrynda.com.au/blog/configuring-per-environment-logging-in-laravel-5  
+https://github.com/laravel/framework/issues/19986  
+https://stackoverflow.com/questions/39494218/unable-to-access-env-variables-in-app-bootstrap  
+https://stackoverflow.com/questions/43657419/how-to-extend-laravel-logger  
+https://blog.muya.co.ke/configure-custom-logging-in-laravel-5/  
+http://fideloper.com/laravel-multiple-database-connections  
+http://laraveldaily.com/multiple-database-connections-in-the-same-laravel-project/  
 
 # 递归参数和变量的理解
 http://www.360doc.com/content/16/0530/22/6828497_563659833.shtml
 
 # laravel自定义异常避免render方法多个if和else
-https://stackoverflow.com/questions/38562017/laravel-exceptions-handler/38629621#38629621
-https://laracasts.com/discuss/channels/code-review/best-way-to-handle-rest-api-errors-throwed-from-controller-or-exception
+https://stackoverflow.com/questions/38562017/laravel-exceptions-handler/38629621#38629621  
+https://laracasts.com/discuss/channels/code-review/best-way-to-handle-rest-api-errors-throwed-from-controller-or-exception  
 
 # 端口映射工具
 https://ngrok.com/
 https://laracasts.com/discuss/channels/tips/l5-exception-handlers
 
 # laravel根据客户端accept请求头自动返回不同类型的响应
-https://stackoverflow.com/questions/34777411/laravel-resourceful-controller-differentiate-an-api-call-from-a-browser
+https://stackoverflow.com/questions/34777411/laravel-resourceful-controller-differentiate-an-api-call-from-a-browser  
 http://fideloper.com/laravel-content-negotiation
 
 # mongodb和elastic实时同步
-https://blog.jixee.me/how-to-use-mongo-connector-with-elasticsearch/
-https://stackoverflow.com/questions/28843496/cant-initiate-replica-set-in-ubuntu
-https://www.linode.com/docs/databases/mongodb/create-a-mongodb-replica-set
-http://eloquentdeveloper.com/2016/09/12/integrate-elasticsearch-mongodb/
-http://christina04.hatenablog.com/entry/2016/08/25/011929
-https://dba.stackexchange.com/questions/180189/cant-run-rs-initiate-when-do-mongodb-replication-set(解决方案)
-https://madhacker.me/use-mongodb-and-elasticsearch-2/
-https://severalnines.com/blog/become-mongodb-dba-basics-mongodb-configuration
+https://blog.jixee.me/how-to-use-mongo-connector-with-elasticsearch/  
+https://stackoverflow.com/questions/28843496/cant-initiate-replica-set-in-ubuntu  
+https://www.linode.com/docs/databases/mongodb/create-a-mongodb-replica-set  
+http://eloquentdeveloper.com/2016/09/12/integrate-elasticsearch-mongodb/  
+http://christina04.hatenablog.com/entry/2016/08/25/011929  
+https://dba.stackexchange.com/questions/180189/cant-run-rs-initiate-when-do-mongodb-replication-set(解决方案)  
+https://madhacker.me/use-mongodb-and-elasticsearch-2/  
+https://severalnines.com/blog/become-mongodb-dba-basics-mongodb-configuration  
 
 # Mysql唯一id生成方案和水平分表方案
 http://blog.csdn.net/z69183787/article/details/61918672
@@ -487,13 +487,13 @@ http://blog.csdn.net/z69183787/article/details/61918672
 http://dougaoyang.github.io/2014/10/22/php-jpg-issue.html
 
 # Laravel使用view composer
-https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers#toc-conclusion
+https://scotch.io/tutorials/sharing-data-between-views-using-laravel-view-composers#toc-conclusion  
 
 # larave中创建自定义规则以及传递参数和parameters参数的含义
-https://stackoverflow.com/questions/36118929/passing-variable-to-validator-laravel
+https://stackoverflow.com/questions/36118929/passing-variable-to-validator-laravel  
 
 # Laravel添加自定义语言
-http://www.expertphp.in/article/creating-multilingual-website-using-localization-in-laravel-5-4
+http://www.expertphp.in/article/creating-multilingual-website-using-localization-in-laravel-5-4  
 
 # Laravel中Mass Assignment的介绍
 https://stackoverflow.com/questions/22279435/what-does-mass-assignment-mean-in-laravel
@@ -508,8 +508,8 @@ https://laravel.com/api/5.4/index.html
 https://scaleyourcode.com/blog/article/14
 
 # yii2运行时执行自定义代码方法实现bootstrapinterface
-http://www.yiiframework.com/wiki/652/how-to-use-bootstrapinterface/
-https://stackoverflow.com/questions/27778477/how-to-make-custom-settings-data-available-globally-in-yii-2
+http://www.yiiframework.com/wiki/652/how-to-use-bootstrapinterface/  
+https://stackoverflow.com/questions/27778477/how-to-make-custom-settings-data-available-globally-in-yii-2  
 
 # laravel中@yield、@section和@show的区别，以及
 https://laravel.io/forum/06-20-2014-yield-vs-section-show
@@ -536,24 +536,24 @@ https://auth0.com/blog/5-steps-to-add-modern-authentication-to-legacy-apps-using
 https://stackoverflow.com/questions/27180059/execute-my-code-before-any-action-of-any-controller/28975463
 
 # nginx1.10版本无法加载upload_progress的问题
-https://github.com/masterzen/nginx-upload-progress-module/issues/47
-https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
+https://github.com/masterzen/nginx-upload-progress-module/issues/47  
+https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/  
 
 # redis多实例的部署步骤
 https://discuss.pivotal.io/hc/en-us/articles/206087627-How-to-setup-and-run-multiple-Redis-server-instances-on-a-Linux-host
 
 # Elasticsearch中，关于文档部分执行插入type和document时的PUT命令时的错误解决方案
-https://www.elastic.co/guide/en/elasticsearch/reference/5.5/_index_and_query_a_document.html
-https://discuss.elastic.co/t/index-a-new-document/35281/8
-需要转义curl -XPUT localhost:9200/customer/external/1 -d "{ \"name\": \"John Doe\"}"  (windos下， linux亲测不用转义，而且外层是单引号即可)
+https://www.elastic.co/guide/en/elasticsearch/reference/5.5/_index_and_query_a_document.html  
+https://discuss.elastic.co/t/index-a-new-document/35281/8  
+需要转义curl -XPUT localhost:9200/customer/external/1 -d "{ \"name\": \"John Doe\"}"  (windos下， linux亲测不用转义，而且外层是单引号即可)  
 
 # 使用logstash复制mysql数据到elasticsearch
 https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash
 
 # 学习shell脚本的比较好的网站
-http://tldp.org/LDP/abs/html/
-https://linuxconfig.org/bash-scripting-tutorial#h19-bash-arithmetics
-https://ryanstutorials.net/bash-scripting-tutorial/bash-user-interface.php
+http://tldp.org/LDP/abs/html/  
+https://linuxconfig.org/bash-scripting-tutorial#h19-bash-arithmetics  
+https://ryanstutorials.net/bash-scripting-tutorial/bash-user-interface.php  
 
 # javascript实现上传进度条，通过xhr对象
 https://zinoui.com/blog/ajax-request-progress-bar

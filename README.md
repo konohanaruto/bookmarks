@@ -559,3 +559,6 @@ https://ryanstutorials.net/bash-scripting-tutorial/bash-user-interface.php
 https://zinoui.com/blog/ajax-request-progress-bar  
 更优版本  
 https://www.linkedin.com/pulse/upload-multiple-files-html-5-javascript-progress-bar-cancel-hewage
+
+# 客户端使用canvas实现图片裁剪功能
+https://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/

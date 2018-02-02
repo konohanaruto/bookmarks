@@ -562,3 +562,6 @@ https://www.linkedin.com/pulse/upload-multiple-files-html-5-javascript-progress-
 
 # 客户端使用canvas实现图片裁剪功能
 https://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/
+
+# JWT的介绍及使用的example讲解，以laravel和angularjs
+https://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs

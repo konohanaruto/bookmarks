@@ -565,3 +565,6 @@ https://tympanus.net/codrops/2014/10/30/resizing-cropping-images-canvas/
 
 # JWT的介绍及使用的example讲解，以laravel和angularjs
 https://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs
+
+# Jquery发送ajax，在success方法中不能使用$(this)的解决方案
+https://stackoverflow.com/questions/6394812/this-inside-of-ajax-success-not-working

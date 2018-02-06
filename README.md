@@ -568,3 +568,6 @@ https://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-ex
 
 # Jquery发送ajax，在success方法中不能使用$(this)的解决方案
 https://stackoverflow.com/questions/6394812/this-inside-of-ajax-success-not-working
+
+# MarkDown语法
+https://help.github.com/articles/basic-writing-and-formatting-syntax/

@@ -571,3 +571,6 @@ https://stackoverflow.com/questions/6394812/this-inside-of-ajax-success-not-work
 
 # MarkDown语法
 https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+# 对高并发流量控制的一点思考
+http://blog.51cto.com/zhangfengzhe/2066683

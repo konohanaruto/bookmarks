@@ -574,3 +574,6 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 # 对高并发流量控制的一点思考
 http://blog.51cto.com/zhangfengzhe/2066683
+
+# laravel + dingo + jwt
+https://tutocode.fr/blog/inscription-connexion-laravel-5-4-dingo-tymon-jwt/75

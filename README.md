@@ -578,3 +578,4 @@ http://blog.51cto.com/zhangfengzhe/2066683
 # laravel + dingo + jwt
 https://tutocode.fr/blog/inscription-connexion-laravel-5-4-dingo-tymon-jwt/75
 http://jellybook.me/articles/2017/03/laravel-jwt-api
+https://medium.com/@sirajul.anik/laravel-api-authenticate-user-with-custom-driver-different-table-using-auth-middleware-fa2cabec2d61

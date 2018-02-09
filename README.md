@@ -579,3 +579,4 @@ http://blog.51cto.com/zhangfengzhe/2066683
 https://tutocode.fr/blog/inscription-connexion-laravel-5-4-dingo-tymon-jwt/75
 http://jellybook.me/articles/2017/03/laravel-jwt-api
 https://medium.com/@sirajul.anik/laravel-api-authenticate-user-with-custom-driver-different-table-using-auth-middleware-fa2cabec2d61
+https://mattstauffer.com/blog/multiple-authentication-guard-drivers-including-api-in-laravel-5-2/

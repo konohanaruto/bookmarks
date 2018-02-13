@@ -576,10 +576,14 @@ https://help.github.com/articles/basic-writing-and-formatting-syntax/
 http://blog.51cto.com/zhangfengzhe/2066683
 
 # laravel + dingo + jwt
-https://tutocode.fr/blog/inscription-connexion-laravel-5-4-dingo-tymon-jwt/75
-http://jellybook.me/articles/2017/03/laravel-jwt-api
-https://medium.com/@sirajul.anik/laravel-api-authenticate-user-with-custom-driver-different-table-using-auth-middleware-fa2cabec2d61
-https://mattstauffer.com/blog/multiple-authentication-guard-drivers-including-api-in-laravel-5-2/
+https://tutocode.fr/blog/inscription-connexion-laravel-5-4-dingo-tymon-jwt/75  
+http://jellybook.me/articles/2017/03/laravel-jwt-api  
+https://medium.com/@sirajul.anik/laravel-api-authenticate-user-with-custom-driver-different-table-using-auth-middleware-fa2cabec2d61  
+https://mattstauffer.com/blog/multiple-authentication-guard-drivers-including-api-in-laravel-5-2/  
+https://scotch.io/tutorials/tinker-with-the-data-in-your-laravel-apps-with-php-artisan-tinker  
+https://jamesmcfadden.co.uk/custom-authentication-in-laravel-with-guards-and-user-service-providers  
+https://www.georgebuckingham.com/blog/laravel-52-auth-custom-user-providers-drivers/  
+http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes  
 
 # Laravel中web.php和api.php的区别
 https://laracasts.com/discuss/channels/laravel/laravel-purpose-and-different-between-webphp-and-apiphp?page=1

@@ -587,3 +587,6 @@ http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authenticatio
 
 # Laravel中web.php和api.php的区别
 https://laracasts.com/discuss/channels/laravel/laravel-purpose-and-different-between-webphp-and-apiphp?page=1
+
+# 两千行代码的php笔记
+http://www.jb51.net/article/55915.htm

@@ -590,3 +590,6 @@ https://laracasts.com/discuss/channels/laravel/laravel-purpose-and-different-bet
 
 # 两千行代码的php笔记
 http://www.jb51.net/article/55915.htm
+
+# Mysql中怎样查询每个组最小，最大，首行记录
+https://www.xaprb.com/blog/2006/12/07/how-to-select-the-firstleastmax-row-per-group-in-sql/

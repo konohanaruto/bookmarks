@@ -594,3 +594,6 @@ http://www.jb51.net/article/55915.htm
 
 # Mysql中怎样查询每个组最小，最大，首行记录
 https://www.xaprb.com/blog/2006/12/07/how-to-select-the-firstleastmax-row-per-group-in-sql/
+
+# xss介绍
+https://www.acunetix.com/websitesecurity/cross-site-scripting/

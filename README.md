@@ -597,3 +597,6 @@ https://www.xaprb.com/blog/2006/12/07/how-to-select-the-firstleastmax-row-per-gr
 
 # xss介绍
 https://www.acunetix.com/websitesecurity/cross-site-scripting/
+
+# php中的session并发阻塞问题
+https://ma.ttias.be/php-session-locking-prevent-sessions-blocking-in-requests/

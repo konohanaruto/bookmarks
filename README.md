@@ -600,3 +600,6 @@ https://www.acunetix.com/websitesecurity/cross-site-scripting/
 
 # php中的session并发阻塞问题
 https://ma.ttias.be/php-session-locking-prevent-sessions-blocking-in-requests/
+
+# app七牛云图片上传的正确姿势
+https://toutiao.io/posts/wg5a8h/preview

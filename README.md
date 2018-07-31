@@ -603,3 +603,6 @@ https://ma.ttias.be/php-session-locking-prevent-sessions-blocking-in-requests/
 
 # app七牛云图片上传的正确姿势
 https://toutiao.io/posts/wg5a8h/preview
+
+# laravel-excel标题出现的是中文无法读取的解决方式
+https://laravel-china.org/topics/2029/laravel-excel-import-excel-file-incomplete-solution

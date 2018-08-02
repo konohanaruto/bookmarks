@@ -609,3 +609,4 @@ https://laravel-china.org/topics/2029/laravel-excel-import-excel-file-incomplete
 
 # laravel中添加任意路径的view目录
 https://stackoverflow.com/questions/39534950/extend-blade-engine-in-laravel-to-use-different-views-directory
+https://stackoverflow.com/questions/27458439/how-to-set-view-file-path-in-laravel

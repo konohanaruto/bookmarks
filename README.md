@@ -606,3 +606,6 @@ https://toutiao.io/posts/wg5a8h/preview
 
 # laravel-excel标题出现的是中文无法读取的解决方式
 https://laravel-china.org/topics/2029/laravel-excel-import-excel-file-incomplete-solution
+
+# laravel中添加任意路径的view目录
+https://stackoverflow.com/questions/39534950/extend-blade-engine-in-laravel-to-use-different-views-directory

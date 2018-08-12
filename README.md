@@ -610,6 +610,8 @@ https://laravel-china.org/topics/2029/laravel-excel-import-excel-file-incomplete
 # laravel中添加任意路径的view目录
 https://stackoverflow.com/questions/39534950/extend-blade-engine-in-laravel-to-use-different-views-directory
 https://stackoverflow.com/questions/27458439/how-to-set-view-file-path-in-laravel
+http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes  配置
+http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes
 
 # 怎么解决ftp安装时的ftp 227 entering passive Mode
 http://sbd-inlinux.blogspot.com/2011/08/test.html
@@ -619,7 +621,4 @@ userlist_deny=NO
 pasv_address=47.95.220.227
 pasv_min_port=41361
 pasv_max_port=65534
-```
-
-http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes  配置
-http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes  
+```  

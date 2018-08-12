@@ -613,3 +613,13 @@ https://stackoverflow.com/questions/27458439/how-to-set-view-file-path-in-larave
 
 # 怎么解决ftp安装时的ftp 227 entering passive Mode
 http://sbd-inlinux.blogspot.com/2011/08/test.html
+核心配置
+```
+userlist_deny=NO
+pasv_address=47.95.220.227
+pasv_min_port=41361
+pasv_max_port=65534
+```
+
+http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes  配置
+http://jwt-auth.readthedocs.io/en/docs/quick-start/#add-some-basic-authentication-routes  

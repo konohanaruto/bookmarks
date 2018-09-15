@@ -622,3 +622,9 @@ pasv_address=47.95.220.227
 pasv_min_port=41361
 pasv_max_port=65534
 ```  
+
+# 怎样解决没有权限运行docker的问题，类似：
+Question: docker: Got permission denied while trying to connect to the Docker daemon socket at unix:///var/run/docker.sock: Post http://%2Fvar%2Frun%2Fdocker.sock/v1.38/containers/create: dial unix /var/run/docker.sock: connect: permission denied.
+See 'docker run --help'.
+解决方案：
+https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/

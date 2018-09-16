@@ -628,3 +628,7 @@ Question: docker: Got permission denied while trying to connect to the Docker da
 See 'docker run --help'.
 解决方案：
 https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-trying-to-connect-to-the-docker-daemon-socket/
+
+
+# 怎么修改hostname在centos7
+https://www.tecmint.com/set-change-hostname-in-centos-7/

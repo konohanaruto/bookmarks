@@ -632,3 +632,19 @@ https://techoverflow.net/2017/03/01/solving-docker-permission-denied-while-tryin
 
 # 怎么修改hostname在centos7
 https://www.tecmint.com/set-change-hostname-in-centos-7/
+
+# 优秀博主
+https://www.edzynda.com/page/3/
+
+# Jenkins持续集成整合php composer
+https://www.edzynda.com/continuous-integration-with-jenkins-part-i/
+
+# 容器化一个golang应用
+http://www.edzynda.com/how-easy-is-it-to-containerize-a-go-app/
+
+# Jenkins持续集成I
+http://www.edzynda.com/continuous-integration-with-jenkins-part-i/
+
+# Jenkins持续集成II
+http://www.edzynda.com/continuous-integration-with-jenkins-part-ii/
+
